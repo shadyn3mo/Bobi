@@ -1,0 +1,11 @@
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "This app uses the microphone to capture your voice for adding food items.";
+
+/* Privacy - Speech Recognition Usage Description */
+"NSSpeechRecognitionUsageDescription" = "This app uses speech recognition to allow you to add food items by voice.";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "This app uses the camera to take photos of your food items for better management.";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "This app uses your location to provide accurate weather information for meal suggestions.";

@@ -1,0 +1,1484 @@
+/* Common */
+"common.cancel" = "Cancel";
+"common.edit" = "Edit";
+"common.delete" = "Remove";
+"common.done" = "All Set! ✨";
+"common.quantity" = "Quantity";
+
+/* Unit Guidance */
+"unit.guidance.message" = "Accurate units help me calculate better for you.";
+
+/* Floating Action Button */
+"fab.show" = "How can I help?";
+"fab.hide" = "Hide";
+
+/* Tab bar items */
+"tab.home" = "Today's Picks";
+"tab.fridge" = "Bobi's Space";
+"tab.shopping" = "Shopping List";
+"tab.inventory" = " Storage";
+"tab.recipes" = "Bobi's Kitchen";
+"tab.settings" = "Settings";
+
+/* Home Page */
+"home.greeting.default" = "Welcome to Bobi!";
+"home.title" = "Smart Home";
+"home.subtitle" = "Your personalized kitchen assistant";
+"home.daily.nutrition" = "Daily Nutrition";
+"home.calorie.needs" = "Your family needs %d calories today";
+"home.last.updated" = "Last updated";
+"home.loading.message" = "Loading your home status...";
+"home.empty.title" = "Welcome to Bobi!";
+"home.empty.message" = "Add some food items to get started with smart suggestions";
+"calorie.daily" = "Daily Calories";
+
+/* Mood Prompts */
+"mood.prompt.title" = "We Need Your Mood Info";
+"mood.prompt.first_time" = "Tell Bobi how you're feeling right now!";
+"mood.prompt.first_time_detail" = "After selecting your mood, I'll recommend better food for you";
+"mood.prompt.refresh" = "Your mood hasn't been updated for 6 hours";
+"mood.prompt.refresh_detail" = "Re-select your mood for more personalized recommendations";
+"mood.prompt.direction" = "Please select from \"How are you feeling today?\" above";
+"mood.prompt.direction_up" = "Please select your mood above";
+
+/* Meal Suggestions */
+"meal.suggestion.mood_required" = "Please select your mood first";
+"meal.suggestion.mood_required_detail" = "Tell Bobi how you feel to get personalized food recommendations";
+"meal.suggestion.generating" = "Carefully preparing recommendations for you...";
+"meal.suggestion.generating.detail" = "Bobi is recommending the perfect dish based on your mood and weather";
+"weather.fetch.failed" = "Weather information fetch failed";
+"weather.fetch.failed_detail" = "Unable to get weather data for personalized recommendations\nPlease check location permissions or network connection";
+
+/* AI Service */
+"ai.service.unavailable" = "AI service temporarily unavailable";
+"ai.service.unavailable.detail" = "Please try again later, or check other features";
+"ai.service.retry" = "Retry";
+"ai.daily.limit.exceeded" = "Daily Free AI Recommendations Used Up";
+"ai.daily.limit.exceeded.detail" = "You can set up a custom API key to continue using AI recommendations";
+"ai.setup.custom.api" = "Set Up Custom API";
+"ai.prompt.breakfast" = "Please recommend a nutritious breakfast based on my current situation.";
+"ai.prompt.lunch" = "Please recommend a warm home-cooked dish based on my current situation.";
+"ai.prompt.dinner" = "Please recommend a cozy dinner based on my current situation.";
+"ai.prompt.snack" = "Please recommend a simple snack or dessert based on my current situation.";
+
+/* Enhanced Greetings - Early Morning (5-9) */
+"enhanced.greeting.early_morning.weekday.1" = "Good morning! New day, new challenges?";
+"enhanced.greeting.early_morning.weekday.2" = "Morning! Today is full of possibilities!";
+"enhanced.greeting.early_morning.weekday.3" = "Bright dawn! May you be full of energy today!";
+"enhanced.greeting.early_morning.weekday.4" = "Morning greetings! Let's start this beautiful day!";
+"enhanced.greeting.early_morning.weekday.5" = "Good morning! A new day, a new start!";
+
+"enhanced.greeting.early_morning.weekend.1" = "Weekend morning! Time to enjoy life's beauty!";
+"enhanced.greeting.early_morning.weekend.2" = "Leisurely morning! Weekends should be this pleasant!";
+"enhanced.greeting.early_morning.weekend.3" = "Weekend greetings! How about a hearty breakfast?";
+"enhanced.greeting.early_morning.weekend.4" = "Beautiful weekend morning! Enjoy the moment!";
+"enhanced.greeting.early_morning.weekend.5" = "Weekend dawn! Give yourself a gentle start!";
+
+/* Enhanced Greetings - Morning (9-12) */
+"enhanced.greeting.morning.weekday.1" = "Good morning! Take care of yourself at work!";
+"enhanced.greeting.morning.weekday.2" = "Beautiful morning! Hope your day goes well!";
+"enhanced.greeting.morning.weekday.3" = "Morning! Let Bobi add some flavor to your day!";
+"enhanced.greeting.morning.weekday.4" = "Busy morning! Don't forget to treat yourself!";
+"enhanced.greeting.morning.weekday.5" = "Energetic morning! What new flavors will you try today?";
+
+"enhanced.greeting.morning.weekend.1" = "Good weekend morning! What would you like to eat today?";
+"enhanced.greeting.morning.weekend.2" = "Leisurely morning! How about some special food?";
+"enhanced.greeting.morning.weekend.3" = "Weekend time! Perfect for trying new recipes!";
+"enhanced.greeting.morning.weekend.4" = "Beautiful weekend morning! Time for a warm family meal!";
+"enhanced.greeting.morning.weekend.5" = "Relaxed morning! Let's explore the joy of food!";
+
+/* Enhanced Greetings - Noon (12-14) */
+"enhanced.greeting.noon.1" = "Good noon! Lunch time, are you hungry?";
+"enhanced.greeting.noon.2" = "Good afternoon! Time to refuel!";
+"enhanced.greeting.noon.3" = "Lunch time! What would you like today?";
+"enhanced.greeting.noon.4" = "Good noon! Let me suggest a heartwarming dish!";
+"enhanced.greeting.noon.5" = "Midday greetings! Simple and delicious, just for you!";
+
+/* Enhanced Greetings - Afternoon (14-17) */
+"enhanced.greeting.afternoon.weekday.1" = "Good afternoon! Take care of yourself when you're busy!";
+"enhanced.greeting.afternoon.weekday.2" = "Afternoon! How about a cup of tea?";
+"enhanced.greeting.afternoon.weekday.3" = "Good afternoon! How about prepping for dinner?";
+"enhanced.greeting.afternoon.weekday.4" = "Pleasant afternoon! What surprise for your family today?";
+"enhanced.greeting.afternoon.weekday.5" = "Afternoon greetings! Simple snacks bring great satisfaction!";
+
+"enhanced.greeting.afternoon.weekend.1" = "Leisurely afternoon! Enjoy your weekend slowly!";
+"enhanced.greeting.afternoon.weekend.2" = "Pleasant afternoon! How about something handmade?";
+"enhanced.greeting.afternoon.weekend.3" = "Perfect afternoon sun! Great for cooking with family!";
+"enhanced.greeting.afternoon.weekend.4" = "Weekend afternoon! Fill the kitchen with laughter!";
+"enhanced.greeting.afternoon.weekend.5" = "Lazy afternoon! Simple cooking, warming hearts!";
+
+/* Enhanced Greetings - Early Evening (17-19) */
+"enhanced.greeting.early_evening.weekday.1" = "Good evening! You've worked hard, time for a reward!";
+"enhanced.greeting.early_evening.weekday.2" = "Dinner time! What will you make for the family today?";
+"enhanced.greeting.early_evening.weekday.3" = "Dusk greetings! A beautiful day is ending!";
+"enhanced.greeting.early_evening.weekday.4" = "Evening! Let good food be the perfect end to the day.";
+"enhanced.greeting.early_evening.weekday.5" = "Work's done! Time to enjoy the warmth of home!";
+
+"enhanced.greeting.early_evening.weekend.1" = "Weekend evening! Great time for a family reunion!";
+"enhanced.greeting.early_evening.weekend.2" = "Sunset! How about a big family dinner?";
+"enhanced.greeting.early_evening.weekend.3" = "Weekend dusk! Perfect for sharing food with loved ones.";
+"enhanced.greeting.early_evening.weekend.4" = "Warm evening! Let the kitchen's aroma fill the house!";
+"enhanced.greeting.early_evening.weekend.5" = "Leisurely dinner time! Weekends should be this nice!";
+
+/* Enhanced Greetings - Evening (19-22) */
+"enhanced.greeting.evening.weekday.1" = "Good evening! Let delicious food ease the day's fatigue!";
+"enhanced.greeting.evening.weekday.2" = "Evening greetings! Hope you had a good day!";
+"enhanced.greeting.evening.weekday.3" = "Good night! Simple cooking can bring great happiness!";
+"enhanced.greeting.evening.weekday.4" = "Night falls! Time for quiet family time!";
+"enhanced.greeting.evening.weekday.5" = "Gentle night! Let me add warmth to your dinner!";
+
+"enhanced.greeting.evening.weekend.1" = "Weekend night! Perfect for dining with family and friends!";
+"enhanced.greeting.evening.weekend.2" = "Beautiful night! Let's create warm memories together!";
+"enhanced.greeting.evening.weekend.3" = "Weekend night! How about a special dish to celebrate?";
+"enhanced.greeting.evening.weekend.4" = "Pleasant night! Weekends should be this leisurely!";
+"enhanced.greeting.evening.weekend.5" = "Warm night! The taste of home is most heartwarming!";
+
+/* Enhanced Greetings - Night (22-5) */
+"enhanced.greeting.night.1" = "It's late! Hungry? Let me suggest some simple late-night snacks!";
+"enhanced.greeting.night.2" = "Good night! You've worked hard staying up late!";
+"enhanced.greeting.night.3" = "Late night greetings! Simple and delicious, for your night!";
+"enhanced.greeting.night.4" = "Gentle night! Hope you have a wonderful evening!";
+"enhanced.greeting.night.5" = "It's deep into the night! Remember to take care of yourself!";
+
+/* Weather-aware Greetings */
+"enhanced.greeting.morning.sunny.1" = "Sunny morning! Perfect for refreshing cuisine!";
+"enhanced.greeting.morning.rainy.1" = "Rainy morning! A hot bowl of soup will warm you up!";
+"enhanced.greeting.morning.cold.1" = "Cold morning! Hot cuisine is just what you need!";
+"enhanced.greeting.morning.hot.1" = "Hot morning! Light cuisine is best for today!";
+
+"enhanced.greeting.afternoon.sunny.1" = "Brilliant sunny afternoon! Feeling especially good?";
+"enhanced.greeting.afternoon.rainy.1" = "Rainy afternoon! Great time to stay home and eat!";
+"enhanced.greeting.afternoon.cold.1" = "It's a bit cold! How about a warming dish?";
+"enhanced.greeting.afternoon.hot.1" = "Hot afternoon! Refreshing cuisine is perfect!";
+
+"enhanced.greeting.evening.sunny.1" = "Sunset! A beautiful day is ending!";
+"enhanced.greeting.evening.rainy.1" = "Misty rainy night! Perfect for a warm dinner at home!";
+"enhanced.greeting.evening.cold.1" = "Cold night! Hot cuisine warms your heart!";
+"enhanced.greeting.evening.hot.1" = "Stuffy night! Some light cuisine to cool down!";
+
+/* Mood-aware Greetings */
+"enhanced.greeting.morning.happy.1" = "Happy morning! A good mood starts with a good breakfast!";
+"enhanced.greeting.morning.tired.1" = "Feeling tired? Simple, nutritious food to recharge!";
+"enhanced.greeting.morning.stressed.1" = "Stressful morning? Let food bring you some comfort!";
+"enhanced.greeting.morning.calm.1" = "Peaceful morning! A calm mind pairs with gentle cuisine!";
+
+"enhanced.greeting.evening.happy.1" = "Joyful evening! A good mood deserves good food!";
+"enhanced.greeting.evening.tired.1" = "Tired evening? Simple cuisine won't add to your burden!";
+"enhanced.greeting.evening.stressed.1" = "Stressful evening? Let warm cuisine comfort your heart!";
+"enhanced.greeting.evening.sad.1" = "Feeling down? The power of food always brings comfort!";
+
+/* Seasonal Greetings */
+"enhanced.greeting.morning.spring.1" = "Spring morning! Everything is fresh, so should your appetite!";
+"enhanced.greeting.morning.summer.1" = "Summer dawn! Refreshing food for an energetic day!";
+"enhanced.greeting.morning.autumn.1" = "Crisp autumn morning! Harvest season means richer food!";
+"enhanced.greeting.morning.winter.1" = "Winter warm sun! Hot cuisine to beat the cold!";
+
+// Mood selection
+"mood.selection.title" = "How are you feeling today?";
+
+// Warm encouragement
+"warm.encouragement.title" = "Warm Encouragement";
+"warm.encouragement.loading" = "Preparing warm words for you...";
+
+// Dish recommendations based on weather
+"dish.recommendation.title" = "Today's Recommended Dish";
+
+// Default dish recommendations (fallback)
+"weather.sunny.default" = "Recommended: Fresh salad with mixed greens, perfect for sunny days! ☀️";
+"weather.rainy.default" = "Recommended: Warm chicken soup, comforting on rainy days. 🌧️";
+"weather.cloudy.default" = "Recommended: Scrambled eggs with toast, cozy for cloudy weather. ☁️";
+"weather.cold.default" = "Recommended: Hot oatmeal with honey, warming for chilly days. 🧊";
+"weather.hot.default" = "Recommended: Iced fruit smoothie, refreshing in hot weather. 🔥";
+"weather.windy.default" = "Recommended: Light steamed vegetables, gentle for windy days. 💨";
+"weather.snowy.default" = "Recommended: Hot pot with vegetables, perfect for snowy weather. ❄️";
+
+// Mood additions (fallback)
+"mood.happy.addition" = "It's wonderful to see you in such a good mood!";
+"mood.excited.addition" = "Your excitement is contagious!";
+"mood.calm.addition" = "Your calm state of mind is precious, keep nurturing it.";
+"mood.tired.addition" = "When feeling tired, rest well - your health comes first.";
+"mood.stressed.addition" = "When stressed, remember to breathe - everything will pass.";
+
+// AI generation loading
+"ai.generating.recommendation" = "Generating personalized suggestion...";
+"home.add.first.item" = "Add First Item";
+"home.warning.title" = "Attention Needed";
+"home.inventory.title" = "Inventory Status";
+"home.inventory.total.items" = "Total Items";
+"home.inventory.expiring.items" = "Expiring Soon";
+"home.inventory.expiring.preview" = "Items expiring soon";
+"home.inventory.expired" = "Expired";
+"home.inventory.expires.tomorrow" = "Tomorrow";
+"home.inventory.expires.in.days" = "In %d days";
+"home.meal.suggestion.title" = "Meal Suggestion";
+"home.meal.ingredients.preview" = "Main Ingredients";
+"home.meal.nutrition.highlights" = "Nutrition Highlights";
+"home.shopping.list.title" = "Shopping List";
+"home.shopping.list.subtitle" = "Items to buy";
+"home.shopping.total.items" = "Total Items";
+"home.shopping.estimated.cost" = "Estimated Cost";
+"home.shopping.urgent.items" = "Urgent Items";
+"home.shopping.tip.urgent" = "Some items are running low";
+"home.shopping.tip.many.items" = "Consider shopping in batches";
+"home.shopping.tip.high.cost" = "Budget-friendly alternatives available";
+"home.shopping.tip.general" = "Happy shopping! 🛒";
+"home.life.tips.title" = "Life Tips";
+"home.life.tips.empty" = "Have a wonderful day!";
+
+/* Weather */
+"weather.sunny" = "Sunny";
+"weather.clear_night" = "Clear Night";
+"weather.cloudy" = "Cloudy";
+"weather.rainy" = "Rainy";
+"weather.cold" = "Cold";
+"weather.hot" = "Hot";
+"weather.unknown" = "Unknown";
+
+/* Stock Levels */
+"stock.empty" = "Empty";
+"stock.low" = "Low";
+"stock.sufficient" = "Sufficient";
+"stock.abundant" = "Abundant";
+"stock.unknown" = "Unknown";
+
+/* Greetings */
+"weekday.morning.greeting" = "Good morning! Ready for a productive day?";
+"weekend.morning.greeting" = "Good morning! Enjoy your weekend!";
+"afternoon.greeting" = "Good afternoon! How's your day going?";
+"evening.greeting" = "Good evening! Time for dinner?";
+"night.greeting" = "Good night! Sweet dreams!";
+
+/* Meal Types */
+"meal.breakfast" = "Breakfast";
+"meal.lunch" = "Lunch";
+"meal.dinner" = "Dinner";
+"meal.snack" = "Snack";
+"meal.dessert" = "Dessert";
+
+/* Difficulty Levels */
+"difficulty.easy" = "Easy";
+"difficulty.medium" = "Medium";
+"difficulty.hard" = "Hard";
+
+/* Urgency Levels */
+"urgency.low" = "Low";
+"urgency.normal" = "Normal";
+"urgency.high" = "High";
+
+/* Life Tip Types */
+"tip.time.based" = "Time-based";
+"tip.weather.based" = "Weather-based";
+"tip.encouragement" = "Encouragement";
+"tip.nutrition" = "Nutrition";
+"tip.general" = "General";
+
+/* Additional Home Status Strings */
+"inventory.items.count" = "Total %d items";
+"inventory.expiring.warning" = "%d items expiring soon";
+"inventory.empty.description" = "Your fridge is empty";
+"nutrition.empty.tip" = "Add some food items to get nutrition insights";
+"nutrition.diverse.good" = "Great variety of foods!";
+"nutrition.balanced.ok" = "Good balance of food types";
+"nutrition.need.diversity" = "Try adding more variety to your diet";
+"priority.expiring.ingredients" = "Priority: Use expiring ingredients";
+"optimal.meal.suggestion" = "Recommended for today";
+"family.suitable" = "Family-friendly";
+"home.data.load.error" = "Failed to load home data";
+"last.updated.unknown" = "Last updated unknown";
+"last.updated" = "Last updated %@";
+"weather.display" = "%@ %@";
+"inventory.empty.summary" = "Your fridge is empty";
+"inventory.one.item.summary" = "You have 1 item";
+"inventory.multiple.items.summary" = "You have %d items";
+"life.tips.empty" = "No tips available";
+"life.tips.default" = "Have a wonderful day!";
+"estimated.cost" = "Estimated cost: ¥%@";
+"estimated.cost.unknown" = "Cost unknown";
+"no.expiring.items" = "No expiring items";
+"one.expiring.item" = "1 item expiring soon";
+"multiple.expiring.items" = "%d items expiring soon";
+"no.urgent.shopping" = "No urgent items";
+"one.urgent.shopping" = "1 urgent item";
+"multiple.urgent.shopping" = "%d urgent items";
+"stock.empty.warning" = "Your fridge is empty";
+"stock.low.warning" = "Food stock is running low";
+"daily.calorie.needs.unknown" = "Daily calorie needs unknown";
+"weekday.evening.tip" = "Perfect time for a simple weekday dinner";
+"weekend.brunch.tip" = "Great weather for a leisurely brunch";
+"sunny.day.tip" = "Perfect weather for fresh salads";
+"rainy.day.tip" = "Cozy weather for warm soups";
+"cold.day.tip" = "Cold weather calls for hearty meals";
+"encouragement.cooking.joy" = "Cooking is a joy, not a chore!";
+"encouragement.healthy.eating" = "Every healthy meal is a step forward";
+"encouragement.family.time" = "Cooking together creates memories";
+"encouragement.waste.reduction" = "You're doing great reducing food waste!";
+"encouragement.general" = "Keep up the great work in the kitchen!";
+
+/* Cooking Time */
+"cooking.time.quick" = "Quick %d mins";
+"cooking.time.medium" = "%d mins";
+"cooking.time.long" = "%d mins";
+
+/* Loading States */
+"analyze.ingredients" = "Analyzing your ingredients... 🤔";
+"generate.recipes" = "Dreaming up ideas... ��";
+"format.results" = "Preparing your results...";
+"completed" = "Ready! ✨";
+
+/* Enhanced Loading States */
+"recipe.preparing.request" = "Getting ready to help...";
+"recipe.analyzing.ingredients" = "Discovering perfect combinations...";
+"recipe.generating.recipes" = "I'm working on something special...";
+"recipe.ai.thinking" = "Let me think of something great...";
+
+/* Mood Selection */
+"mood.selection.title" = "How are you feeling today?";
+"mood.selection.subtitle" = "Your mood helps us suggest the perfect meal for you";
+"mood.selection.cancel" = "Cancel";
+"mood.selection.confirm" = "Confirm";
+"mood.not.selected" = "No mood selected";
+"mood.change" = "Change";
+"mood.intensity.title" = "How intense is this feeling?";
+
+/* Mood Types */
+"mood.happy" = "Happy";
+"mood.excited" = "Excited";
+"mood.calm" = "Calm";
+"mood.tired" = "Tired";
+"mood.stressed" = "Stressed";
+"mood.sad" = "Sad";
+"mood.anxious" = "Anxious";
+"mood.energetic" = "Energetic";
+"mood.romantic" = "Romantic";
+"mood.nostalgic" = "Nostalgic";
+
+/* Mood Intensities */
+"mood.intensity.low" = "Mild";
+"mood.intensity.normal" = "Normal";
+"mood.intensity.high" = "Intense";
+
+/* Mood Descriptions */
+"mood.description.low" = "Slightly %@";
+"mood.description.high" = "Very %@";
+
+/* Weather Conditions */
+"weather.windy" = "Windy";
+"weather.snowy" = "Snowy";
+"weather.clear" = "Clear";
+"weather.thunderstorms" = "Thunderstorms";
+"weather.foggy" = "Foggy";
+
+/* Weather Descriptions with Emojis */
+"weather.desc.sunny" = "Sunny & Bright ☀️";
+"weather.desc.cloudy" = "Cloudy Day ☁️";
+"weather.desc.rainy" = "Gentle Rain 🌧️";
+"weather.desc.cold" = "Fresh & Cool 🧊";
+"weather.desc.hot" = "Hot Summer 🔥";
+"weather.desc.windy" = "Gentle Breeze 💨";
+"weather.desc.snowy" = "Snowy Wonder ❄️";
+"weather.desc.thunderstorms" = "Thunder & Lightning ⛈️";
+"weather.desc.foggy" = "Misty Weather 🌫️";
+"weather.desc.clear" = "Crystal Clear 🌟";
+
+/* Weather Descriptions with Temperature */
+"weather.temp.sunny" = "Sunny & bright today ☀️ %@";
+"weather.temp.cloudy" = "Cloudy today ☁️ %@";
+"weather.temp.rainy" = "It's raining outside 🌧️ %@";
+"weather.temp.cold" = "It's a bit cool today 🧊 %@";
+"weather.temp.hot" = "It's quite hot today 🔥 %@";
+"weather.temp.windy" = "It's windy today 💨 %@";
+"weather.temp.snowy" = "It's snowing outside ❄️ %@";
+"weather.temp.thunderstorms" = "Thunderstorms outside ⛈️ %@";
+"weather.temp.foggy" = "Very foggy today 🌫️ %@";
+"weather.temp.clear" = "Crystal clear sky today 🌟 %@";
+
+/* Food Units - Standardized */
+"unit.gram" = "g";
+"unit.milliliter" = "ml";
+"unit.piece" = "pc";
+
+/* Location and Weather */
+"location.permission.denied" = "Location permission denied. Using default weather data.";
+"location.permission.required" = "Location permission required for weather information";
+"location.current" = "Current location";
+"location.mock" = "Default location";
+"location.error" = "Unable to get location";
+"weather.fetch.error" = "Unable to fetch weather data";
+
+/* WeatherKit Errors */
+"weather.error.network" = "Network connection failed, unable to get weather data";
+"weather.error.authentication" = "Weather service authentication failed";
+"weather.error.location" = "Location information unavailable";
+"weather.error.unknown" = "Unknown error occurred while getting weather information";
+"weather.error.general" = "Weather service temporarily unavailable";
+
+/* WeatherKit Conditions */
+"weather.clear" = "Clear";
+"weather.thunderstorms" = "Thunderstorms";
+"weather.foggy" = "Foggy";
+
+/* Contextual Suggestions */
+"contextual.meal.suggestion" = "Perfect meal suggestion for you";
+
+/* Receipt Scan */
+"receipt.scan.title" = "Scan Receipt";
+"receipt.scan.instruction" = "Scan Your Receipt";
+"receipt.scan.description" = "Take a photo or scan your grocery receipt to automatically add items";
+"receipt.scan.tip.focus" = "Focus on the food items section only";
+"receipt.scan.tip.straight" = "Keep receipt straight with good lighting";
+"receipt.scan.tip.clear" = "Ensure text is clear and readable";
+"receipt.scan.tip.multiple" = "Multiple receipts can be scanned at once";
+"receipt.scan.tip.angle" = "Avoid tilted or angled shots";
+"receipt.scan.camera" = "Take Photo";
+"receipt.scan.photo" = "Choose from Photos";
+"receipt.scan.processing" = "Processing Receipt...";
+"receipt.scan.processing.description" = "Recognizing food items and quantities";
+"receipt.scan.date" = "Select Purchase Date";
+"receipt.scan.items" = "Items Found";
+"receipt.scan.items.count" = "items";
+"receipt.scan.confirm" = "Add All Items";
+"receipt.edit.button" = "Edit Recognition Results";
+"receipt.add.direct" = "Add Directly to Fridge";
+"receipt.edit.title" = "Edit Receipt";
+"receipt.edit.purchase.info" = "Purchase Information";
+"receipt.edit.purchase.date" = "Purchase Date";
+"receipt.edit.items.found" = "Recognized Items";
+"receipt.edit.items.count" = "items";
+"receipt.edit.confirm.add" = "Confirm Add to Fridge";
+"receipt.item.edit.name" = "Name";
+"receipt.item.edit.quantity" = "Quantity";
+"receipt.item.edit.category" = "Category";
+"receipt.scan.adding" = "Adding Items...";
+"receipt.scan.retry" = "Scan Again";
+"receipt.error.invalid_data" = "Invalid receipt data";
+"receipt.error.no_data" = "No receipt data available";
+"receipt.error.no_food_items" = "No food found! Try better lighting and closer shot 📸";
+"receipt.error.add_failed" = "Failed to add food items";
+"receipt.success.items_added" = "Great! Successfully added {count} items to your fridge! 🎉";
+"receipt.error.create_item" = "Failed to create food item";
+"receipt.scan.result" = "Result";
+"receipt.error.no_valid_items" = "No valid food items found";
+"receipt.error.processing.failed" = "Oops! Let me try that again.";
+"receipt.error.ocr.quality" = "Photo is not clear enough! Please retake and ensure receipt text is clearly visible 📱";
+"receipt.scan.alert.title" = "Alert";
+"common.ok" = "Got it";
+"recipe.formatting.results" = "Formatting recipes...";
+"recipe.completed" = "Complete!";
+"recipe.cancel.request" = "Cancel";
+
+/* Recipe */
+"recipe.title" = "Bobi's Kitchen";
+"recipe.subtitle" = "Your daily meal inspiration.";
+"recipe.daily.calories" = "Energy Target";
+"recipe.available.items" = "In the Fridge";
+"recipe.smart.suggestions" = "Bobi's Ideas";
+"recipe.tonight.dinner" = "What's for dinner?";
+"recipe.balanced.nutrition" = "Balanced Nutrition";
+"recipe.healthy.meal" = "Healthy Meals";
+"recipe.low.fat.high.protein" = "Low-Fat, High-Protein";
+"recipe.quick.cook" = "Quick Meals";
+"recipe.under.30min" = "Ready in 30 Min";
+"recipe.use.expiring" = "Use Expiring Food";
+"recipe.reduce.waste" = "Reduce Food Waste";
+"recipe.baby.food" = "Baby Food";
+"recipe.soft.nutritious" = "Soft & Nutritious";
+"recipe.summer.treats" = "Summer Treats";
+"recipe.cooling.refreshing" = "Cool & Refreshing";
+"recipe.breakfast.energy" = "Breakfast Energy";
+"recipe.start.day.right" = "Start Your Day Right";
+"recipe.elderly.care" = "Elderly Care";
+"recipe.easy.digest" = "Easy to Digest";
+"recipe.weight.loss" = "Weight Loss";
+
+/* Recipe Parser */
+"recipe.parsing" = "Parsing recipes...";
+"recipe.ingredient.main" = "Main";
+"recipe.ingredient.side" = "Side";
+"recipe.ingredient.seasoning" = "Seasoning";
+"recipe.ingredient.available" = "Available";
+"recipe.ingredient.new" = "New";
+
+/* Family Dietary Restrictions */
+"family.dietary.vegetarian" = "Vegetarian";
+"family.dietary.vegan" = "Vegan";
+"family.dietary.glutenFree" = "Gluten-Free";
+"family.dietary.dairyFree" = "Dairy-Free";
+"family.dietary.nutFree" = "Nut-Free";
+"family.dietary.lowSodium" = "Low Sodium";
+"family.dietary.diabetic" = "Diabetic";
+"family.dietary.kosher" = "Kosher";
+"family.dietary.halal" = "Halal";
+
+/* Family Allergies */
+"family.allergy.shellfish" = "Shellfish Allergy";
+"family.allergy.egg" = "Egg Allergy";
+"family.allergy.fish" = "Fish Allergy";
+"family.allergy.soy" = "Soy Allergy";
+"family.allergy.wheat" = "Wheat Allergy";
+"family.allergy.sesame" = "Sesame Allergy";
+"family.allergy.sulfite" = "Sulfite Allergy";
+"family.allergy.mushroom" = "Mushroom Allergy";
+
+/* Family Dietary Categories */
+"family.dietary.category.lifestyle" = "Lifestyle";
+"family.dietary.category.dietary" = "Dietary";
+"family.dietary.category.health" = "Health";
+"family.dietary.category.religious" = "Religious";
+"family.dietary.category.allergy" = "Allergies";
+
+/* Custom Allergies */
+"family.custom.allergies.title" = "Other Allergies";
+"family.custom.allergies.description" = "Add allergies not in the preset list";
+"family.custom.allergies.add" = "Add Allergy";
+"family.custom.allergies.add.title" = "Add Custom Allergy";
+"family.custom.allergies.add.description" = "Please enter any special allergies to help Bobi create safer meal plans for your family";
+"family.custom.allergies.add.button" = "Add";
+"family.custom.allergies.allergy.name" = "Allergy Name";
+"family.custom.allergies.placeholder" = "Enter allergy name";
+"family.custom.allergies.example" = "e.g., Mango, Certain spices, etc.";
+"family.custom.allergies.remove.title" = "Remove Allergy";
+"family.custom.allergies.remove.message" = "Are you sure you want to remove this allergy?";
+"family.custom.allergies.remove.confirm" = "Remove";
+"family.custom.allergies.empty" = "No custom allergies added";
+"recipe.low.calorie" = "Low Calorie";
+
+/* Recipe Parser */
+"recipe.ingredient.main" = "Main Ingredients";
+"recipe.ingredient.side" = "Side Ingredients";
+"recipe.ingredient.seasoning" = "Seasonings";
+"recipe.ingredient.available" = "Available";
+"recipe.ingredient.new" = "New";
+"recipe.latest.recommendation" = "Latest Recommendations";
+"recipe.fresh.recommendation" = "Fresh Ideas";
+"recipe.custom.request" = "Tell Bobi...";
+"recipe.custom.placeholder" = "Tell Bobi your thoughts, like 'I want something spicy'...";
+"recipe.use.buttons.above" = "👆 Tap a button above for ideas!";
+"recipe.buttons.recommendation" = "Tap a button above and let Bobi inspire you!";
+"recipe.chef.thinking" = "Bobi's cooking... 🍳";
+"recipe.error.message" = "Connection hiccup! Check your internet and I'll get cooking 📡✨";
+"recipe.recommended.dishes" = "Bobi's Picks";
+"recipe.smart.generation.note" = "Bobi customizes recipes for your family";
+"recipe.insufficient.ingredients" = "Your Fridge Needs More Ingredients";
+"recipe.insufficient.suggestion" = "Add more ingredients and I'll whip up something amazing! 🛒✨";
+"recipe.setup.family.title" = "Meet Your Family";
+"recipe.setup.family.description" = "Tell me about your family for personalized meals!";
+"recipe.setup.now" = "Set Up Now";
+"recipe.setup.later" = "Later";
+"recipe.kid.friendly" = "Kid-Friendly";
+"recipe.nutritious.fun" = "Nutritious & Fun";
+"recipe.high.energy" = "High Energy";
+"recipe.active.youth" = "Boost Energy!";
+"recipe.soft.easy" = "Soft & Easy to Chew";
+"recipe.gentle.digestible" = "Gentle & Digestible";
+
+/* Seasonal Recipes */
+"recipe.seasonal.spring" = "Spring Special";
+"recipe.seasonal.summer" = "Summer Coolers";
+"recipe.seasonal.autumn" = "Autumn Special";
+"recipe.seasonal.winter" = "Winter Special";
+"recipe.seasonal.spring.subtitle" = "A Taste of Spring";
+"recipe.seasonal.summer.subtitle" = "Cooling & Refreshing";
+"recipe.seasonal.autumn.subtitle" = "Autumn Treats";
+"recipe.seasonal.winter.subtitle" = "Warm & Cozy";
+
+/* Smart Recommendations */
+"recipe.weight.loss" = "Weight Loss";
+"recipe.low.calorie" = "Low Calorie";
+
+/* Recipe Error Messages */
+"recipe.error.title" = "Bobi's Friendly Reminder";
+"recipe.error.suggestion" = "Tip";
+"recipe.error.health.suggestion" = "Try adjusting your request, like changing the flavor or cuisine style, and Bobi will create a healthy and delicious recipe for you!";
+
+/* Recipe Error Codes */
+"recipe.error.HEALTH_CONFLICT" = "Health Conflict";
+"recipe.error.UNSAFE_INGREDIENTS" = "Ingredient Safety";
+"recipe.error.LOGICAL_IMPOSSIBLE" = "Conflicting Requirements";
+"recipe.error.INSUFFICIENT_SAFE" = "Insufficient Ingredients";
+"recipe.error.SECURITY_VIOLATION" = "Access Restricted";
+"recipe.error.UNKNOWN" = "Unknown Error";
+
+/* Units */
+"kcal" = "kcal";
+"dishes" = "dishes";
+
+/* Fridge/Inventory */
+"fridge.title" = "Bobi's Space";
+"fridge.subtitle" = "Everything organized and at your fingertips";
+"fridge.search.placeholder" = "What are you looking for?";
+"fridge.search.title" = "Find";
+"fridge.add.voice" = "Tell Me";
+"fridge.add.scan" = "Quick Scan";
+"fridge.add.manual" = "Add Manually";
+"fridge.no.expiration" = "No Expiration Date";
+"fridge.expired" = "Past Due";
+"fridge.expires.today" = "Use Today";
+"fridge.expires.tomorrow" = "Use Tomorrow";
+"fridge.expires.in.days" = "%d Days Fresh";
+"fridge.fresh" = "Fresh";
+"fridge.active.items" = "%d Items Ready";
+"fridge.stats.categories" = "Category";
+"fridge.stats.expiring" = "Expiring";
+"fridge.total" = "Total Items";
+"fridge.status.ready" = "Ready";
+"fridge.status.checking" = "Checking Status...";
+"fridge.status.error" = "Network hiccup! Basic features still work";
+"fridge.view.details" = "Details";
+"fridge.delete.group.title" = "Delete This Group?";
+"fridge.delete.group.message" = "Once '%@' and its items are gone, they're gone for good. Is that okay?";
+
+/* Add Food Item */
+"add.food.title" = "Add New Food Item";
+"add.food.basic.info" = "Basic Information";
+"add.food.name.placeholder" = "Item Name";
+"add.food.category" = "Category";
+"add.food.quantity.section" = "Quantity";
+"add.food.quantity" = "Quantity";
+"add.food.dates.section" = "Dates";
+"add.food.purchase.date" = "Purchase Date";
+"add.food.has.expiration" = "Has Expiration Date";
+"add.food.expiration.date" = "Expiration Date";
+"add.food.cancel" = "Cancel";
+"add.food.save" = "Save to Fridge";
+
+/* Food Categories */
+"category.dairy" = "Dairy";
+"category.eggs" = "Eggs";
+"category.meat" = "Meat";
+"category.seafood" = "Seafood";
+"category.vegetables" = "Vegetables";
+"category.fruits" = "Fruits";
+"category.grains" = "Grains";
+"category.beverages" = "Beverages";
+"category.condiments" = "Condiments";
+"category.frozen" = "Frozen";
+"category.canned" = "Canned";
+"category.snacks" = "Snacks";
+"category.other" = "Other";
+
+/* Storage Locations */
+"storage.freezer" = "Freezer";
+"storage.refrigerator" = "Refrigerator";
+"storage.pantry" = "Pantry";
+"storage.freezer.description" = "For meats and frozen goods.";
+"storage.refrigerator.description" = "For dairy, produce, and perishables.";
+"storage.pantry.description" = "For dry goods and canned items.";
+"storage.location" = "Storage Location";
+"storage.recommended" = "Recommended";
+"storage.recommendation.based.on" = "Recommended Location";
+"storage.use.recommended" = "Use Recommended";
+
+/* View Modes */
+"view.by.category" = "Category";
+"view.by.storage" = "Storage";
+
+/* Barcode Scanner */
+"scanner.title" = "Scan Item";
+"scanner.cancel" = "Cancel Scan";
+"scanner.unavailable" = "Camera Unavailable";
+"scanner.unavailable.description" = "This device does not have a camera, so scanning is unavailable.";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.group.ai" = "AI Brain";
+"settings.subtitle" = "Customize your experience.";
+"settings.notifications" = "Notifications";
+"settings.privacy" = "Privacy & Security";
+"settings.interface" = "Appearance";
+"settings.group.interface" = "Appearance";
+"settings.group.privacy" = "Privacy & Notifications";
+"settings.group.support" = "Support & About";
+"settings.about" = "About";
+"settings.feedback" = "Send Feedback";
+
+/* Notifications */
+"notifications.expiration.reminder" = "Expiration Reminder";
+"notifications.low.stock" = "Restock Reminder";
+"notifications.shopping.list" = "Shopping List Alerts";
+"notifications.enable" = "Enable Reminders";
+"notifications.frequency" = "Reminder Frequency";
+"notifications.frequency.realtime" = "Real-time";
+"notifications.frequency.hourly" = "Every Hour";
+"notifications.frequency.twice.daily" = "Twice Daily";
+"notifications.frequency.daily" = "Daily";
+"notifications.frequency.weekly" = "Weekly";
+"notifications.frequency.realtime.description" = "Immediate notifications";
+"notifications.frequency.hourly.description" = "Every hour during active hours";
+"notifications.frequency.twice.daily.description" = "Morning and evening";
+"notifications.frequency.daily.description" = "Once per day";
+"notifications.frequency.weekly.description" = "Once per week";
+"notifications.preferred.time" = "Preferred Time";
+"notifications.timing" = "Timing";
+"notifications.timing.description" = "Set when you prefer to receive reminders";
+
+/* Enhanced Notification Descriptions */
+"notifications.types" = "Reminder Types";
+"notifications.expiration.description" = "Get notified when food expires today or within 3 days, helping you reduce waste.";
+"notifications.restock.reminder" = "Low Stock Alerts";
+"notifications.restock.description" = "Alerts when specific food items marked for restocking are running low.";
+"notifications.shopping.reminder" = "Shopping List Reminders";
+"notifications.shopping.description" = "Reminders when food inventory falls below shopping list thresholds.";
+"notifications.schedule" = "Notification Schedule";
+"notifications.frequency.monthly" = "Monthly";
+"notification.frequency.realtime" = "Real-time";
+"notification.frequency.hourly" = "Hourly";
+"notification.frequency.daily" = "Daily";
+"notification.frequency.weekly" = "Weekly";
+"notification.frequency.monthly" = "Monthly";
+"notification.description.realtime" = "You'll receive notifications immediately as they occur";
+"notification.description.hourly" = "Notifications will be batched and sent every hour";
+"notification.description.daily" = "You'll receive a daily summary at %@";
+"notification.description.weekly" = "You'll receive a weekly summary on %@ at %@";
+"notification.description.monthly" = "You'll receive a monthly summary on day %@ at %@";
+"notifications.preferred.time.description" = "For non-realtime frequencies, this sets when you'll receive your notifications.";
+"notifications.permission.required" = "Notifications Disabled";
+"notifications.permission.description" = "Enable notifications to receive timely reminders about your food items.";
+"notifications.enable.button" = "Enable Notifications";
+"notifications.permission.denied" = "Permission Denied";
+"notifications.permission.denied.message" = "Please enable notifications in Settings to receive reminders.";
+"settings.open" = "Open Settings";
+"notifications.preferred.weekday" = "Day of Week";
+"notifications.preferred.monthday" = "Day of Month";
+"notification.monthday.format" = "%d";
+"notification.monthday.endofmonth" = "Day %d (end of month)";
+"notifications.monthday.warning" = "Note: For months with fewer days, notifications will be sent on the last day of the month.";
+
+/* Notification Content */
+"notification.expiration.today.title" = "Expiring Today!";
+"notification.expiration.today.body" = "%@ is expiring today, don't forget to use it!";
+"notification.expiration.tomorrow.title" = "Expiring Tomorrow!";
+"notification.expiration.tomorrow.body" = "%@ is expiring tomorrow, remember to use it soon!";
+"notification.expiration.soon.title" = "Food Expiring Soon";
+"notification.expiration.soon.body" = "%@ will expire in %d days, don't let it go to waste!";
+"notification.restock.title" = "Time to Restock!";
+"notification.restock.body" = "%@ is running low, consider adding it to your shopping list!";
+"notification.shopping.title" = "Time to Restock!";
+"notification.shopping.single.body" = "%@ is running low, time to restock!";
+"notification.shopping.multiple.body" = "%@ are all running low, time to go shopping!";
+"notification.shopping.many.body" = "%@ and %d other items are running low, time to restock!";
+
+/* Targeted Shopping Notifications */
+"notification.shopping.targeted.title" = "Recently Used Items Need Restocking";
+"notification.shopping.targeted.single" = "%@ is running low, time to restock!";
+"notification.shopping.targeted.multiple" = "%@ that you just used are running low, time to restock!";
+"notification.shopping.targeted.multiple.overflow" = "%@ and %d other recently used items need restocking!";
+
+/* Privacy & Security */
+"privacy.data.usage" = "Data Usage";
+"privacy.permissions" = "Permissions";
+"privacy.ai.connection" = "AI Connection";
+"privacy.reset.data" = "Reset All Data";
+
+/* Permissions */
+"permissions.audio" = "Voice Access";
+"permissions.audio.description" = "Bobi needs microphone access for voice input.";
+"permissions.speech.recognition" = "Speech Recognition";
+"permissions.speech.recognition.description" = "Allows Bobi to understand your voice.";
+"permissions.microphone" = "Microphone";
+"permissions.microphone.description" = "Allows Bobi to hear your voice.";
+"permissions.foundation.model" = "AI Model";
+"permissions.foundation.model.description" = "Enables smart classification of items.";
+"permissions.status.granted" = "Granted";
+"permissions.status.denied" = "Denied";
+"permissions.status.restricted" = "Restricted";
+"permissions.status.not.requested" = "Not Requested";
+"permissions.status.unknown" = "Unknown";
+"permissions.status.available" = "Available";
+"permissions.status.unavailable" = "Unavailable";
+"permissions.status.limited" = "Limited functionality";
+"permissions.status.not.supported" = "Not supported";
+"permissions.open.settings" = "Open Settings";
+"permissions.manage" = "Manage Permissions";
+"permissions.footer.description" = "Manage permissions in your device settings.";
+
+/* Data Privacy */
+"data.privacy.title" = "Your Privacy Matters to Bobi";
+"data.privacy.description.1" = "Your privacy comes first with Bobi.";
+"data.privacy.description.2" = "Your fridge data stays safely on your device.";
+"data.privacy.description.3" = "I never peek at or share your personal info.";
+"data.feature.local.title" = "Local Data Storage";
+"data.feature.local.description" = "All data is stored on your device, with optional iCloud sync.";
+"data.feature.private.title" = "Privacy Focused";
+"data.feature.private.description" = "Bobi never collects, tracks, or analyzes your personal information.";
+"data.feature.secure.title" = "Encrypted Data";
+"data.feature.secure.description" = "Your data is protected with AES-256 encryption.";
+"data.feature.ai.title" = "On-Device AI";
+"data.feature.ai.description" = "Speech recognition and food classification are processed on your device.";
+"data.feature.cloud.ai.title" = "Cloud AI & Privacy";
+"data.feature.cloud.ai.description" = "Cloud AI for nutrition recommendations only uses necessary ingredient info, never personal data.";
+
+/* AI Connection */
+"ai.chef.settings" = "AI Chef Settings";
+"ai.model.selection.title" = "Choose AI Model";
+"ai.model.deepseek.description" = "Efficient and practical for home cooking.";
+"ai.model.gemini.description" = "Creative fusion, blends international cuisine";
+"ai.model.gpt4mini.description" = "Well-balanced, perfect for daily nutrition planning";
+"ai.model.deepseek.detailed" = "The best choice for practical, everyday meals. It excels at using the ingredients you already have, saving you money and time. Its recipes are fast, delicious, and easy to follow.";
+"ai.model.gemini.detailed" = "Features powerful multicultural culinary understanding, capable of blending East-West fusion and international cuisine essentials with strong creativity and diverse flavors. Premium positioning, ideal for food enthusiasts seeking innovative recipes and international tastes, generating sophisticated fusion dishes.";
+"ai.model.gpt4mini.detailed" = "A fast and reliable recipe generator. It delivers consistent performance when you need quick inspiration for classic, conventional recipes. Please note that to create these standard dishes, it may suggest purchasing additional ingredients not currently in your fridge.";
+"ai.temperature.title" = "Recipe Creativity";
+"ai.temperature.label" = "Temperature";
+"ai.temperature.description" = "0.0-0.4: Classic traditional recipes  0.5-0.8: Balanced creative pairing  0.9-1.2: Bold creative fusion";
+"ai.connection.status.title" = "AI Connection Status";
+"ai.connection.status.description" = "AI Service Status";
+"ai.connection.status.checking" = "Connecting to AI...";
+"ai.connection.status.ready" = "Connected";
+"ai.connection.status.offline" = "Offline";
+"ai.connection.status.error" = "Connection Failed";
+"ai.connection.status.ready.description" = "AI is ready to provide nutrition advice.";
+"ai.connection.status.checking.description" = "Connecting to AI, please wait...";
+"ai.connection.status.offline.description" = "AI is temporarily offline. Local functions are still available.";
+"ai.connection.status.error.description" = "Cannot connect to AI. Basic functions are unaffected.";
+"ai.connection.privacy.title" = "Privacy & Data";
+"ai.connection.privacy.description" = "Nutrition recommendations use ingredients, family members, and dietary preferences, but never personally identifiable information.";
+"ai.connection.data.usage" = "Shared data: Ingredient names, family member info, dietary preferences. Never shared: Purchase/expiration dates, quantities, or your name.";
+
+/* API Source Selection */
+"ai.api.source.title" = "Choose AI Service";
+"ai.source.free.title" = "Free AI Assistant";
+"ai.source.free.description" = "Powered by Google Gemini, completely free";
+"ai.source.custom.title" = "Custom API";
+"ai.source.custom.description" = "Use your own API key for advanced models";
+"ai.free.model.title" = "Using Google Gemini 2.0 Flash";
+"ai.free.model.description" = "Fast, reliable, and completely free. Perfect for daily recipe recommendations and food management.";
+
+/* API Provider Selection */
+"ai.api.provider.title" = "Choose AI Provider";
+"ai.provider.default.model" = "Default Model";
+"ai.provider.openai.description" = "ChatGPT series models, suitable for general conversation";
+"ai.provider.gemini.description" = "Google's latest AI model with strong multimodal capabilities";
+"ai.provider.anthropic.description" = "Claude series models, safe and reliable";
+"ai.provider.deepseek.description" = "Cost-effective AI model with high performance";
+
+/* Thinking Mode */
+
+/* API Key Configuration */
+"ai.api.key.config.title" = "API Key Configuration";
+"ai.api.key.label" = "API Key";
+"ai.api.key.placeholder" = "Enter your API key";
+"ai.api.key.info" = "Your API key will be securely stored on your device";
+
+/* AI Service Errors */
+"ai.error.missing.api.key" = "Please configure your API key first";
+"ai.error.invalid.configuration" = "Invalid API configuration";
+"ai.error.invalid.url" = "Invalid API URL format";
+"ai.error.invalid.response" = "Invalid API response format";
+"ai.error.api.error" = "API call failed";
+"ai.error.daily.limit.exceeded" = "Daily limit exceeded. Please try again tomorrow!";
+"ai.quota.exceeded.title" = "Free Quota Exceeded";
+
+/* AI Free Service */
+"ai.free.service.title" = "Free AI Assistant";
+"usage.remaining" = "Remaining today";
+"usage.available" = "Available for use";
+"usage.reset.time" = "Resets in %@";
+
+/* AI Upgrade Tips */
+"ai.upgrade.tip.title" = "Want Better Recipes?";
+"ai.upgrade.tip.description" = "Use custom API for unlimited access to advanced AI models with richer, more personalized recipe suggestions.";
+"ai.upgrade.tip.action" = "Switch to Custom API below";
+
+/* Receipt Scan AI Usage */
+"receipt.scan.ai.usage.title" = "AI Recognition Uses Free Credits";
+"receipt.scan.ai.usage.free" = "Scanning receipts will use 1 free AI recognition credit";
+"receipt.scan.ai.usage.custom" = "Custom API has unlimited usage";
+"receipt.scan.ai.usage.remaining" = "Today remaining: %d/%d";
+"receipt.scan.no_items_found" = "No food items found";
+"receipt.scan.no_food_items" = "No food items found in this receipt";
+"receipt.scan.no_food_items.description" = "Please check if the receipt is clear, or try scanning a receipt with more food items";
+"ai.service.unavailable" = "Cloud kitchen's busy! Back soon with tasty ideas 🍳💕";
+"ai.service.internal.error" = "Server's on break! Try again soon";
+"ai.service.rate.limited" = "Too many requests! Take a break, I'm prepping recipes ✨";
+
+/* Interface Settings */
+"interface.language" = "Language";
+"interface.theme" = "Theme";
+"interface.auto" = "Default";
+"interface.light" = "Light";
+"interface.dark" = "Dark";
+"interface.handedness" = "Handedness";
+"interface.right.handed" = "Right-Handed";
+"interface.left.handed" = "Left-Handed";
+
+/* About */
+"about.version" = "Version";
+"about.developer" = "Developer";
+"about.website" = "Website";
+"about.privacy.policy" = "Privacy Policy";
+"about.terms.of.use" = "Terms of Use";
+
+/* Share Bobi */
+"share.bobi.title" = "Share Bobi";
+"share.bobi.motto" = "Smart Management, Warm Living";
+"share.bobi.description" = "Share Bobi with friends and let more people experience the joy of smart kitchen management";
+"share.bobi.button" = "Share with Friends";
+"share.bobi.content" = "Discovered an amazing smart fridge management app called Bobi! Smart Management, Warm Living 🏠✨";
+
+/* Feedback */
+"feedback.rate.app" = "Rate App";
+"feedback.send.feedback" = "Send Feedback";
+"feedback.share.app" = "Share App";
+"feedback.contact.us" = "Contact Us";
+
+/* Shopping List */
+"shopping.title" = "Shopping List";
+"shopping.subtitle" = "Smart inventory tracking and restock reminders";
+"shopping.search.placeholder" = "Search shopping list...";
+"shopping.search.title" = "Search shopping list...";
+"shopping.add.item" = "Add Item";
+"shopping.threshold" = "Restock Threshold";
+"shopping.current.stock" = "Current Stock";
+"shopping.item.name" = "Item Name";
+"shopping.category" = "Category";
+"shopping.unit" = "Unit";
+"shopping.min.quantity" = "Remind when less than";
+"shopping.enable.alerts" = "Enable Restock Alerts";
+"shopping.delete.item" = "Delete Item";
+"shopping.edit.item" = "Edit";
+"shopping.delete" = "Delete";
+"shopping.edit" = "Edit";
+"shopping.status.low" = "Time to Restock!";
+"shopping.status.medium" = "Running Low";
+"shopping.status.sufficient" = "Stock Sufficient";
+"shopping.stats.shortage" = "Shortages";
+"shopping.stats.total" = "Total Items";
+"shopping.section.shortage" = "Needs Restocking";
+"shopping.section.sufficient" = "Well Stocked";
+"shopping.empty.title" = "Your shopping list is empty";
+"shopping.empty.message" = "Add items you want to track and I'll remind you when they're running low";
+
+/* Food Item Details */
+"food.details.title" = "Food Item Details";
+"food.details.name" = "Name";
+"food.details.category" = "Category";
+"food.details.quantity" = "Quantity";
+"food.details.unit" = "Unit";
+"food.details.purchase.date" = "Purchase Date";
+"food.details.expiration.date" = "Expiration Date";
+"food.details.stock.alert" = "Stock Alert";
+"food.details.save" = "Save";
+"food.details.cancel" = "Cancel";
+"food.details.delete" = "Delete";
+"food.details.subitems" = "Batches";
+
+"voice.edit.icon" = "Change Icon";
+
+/* Voice Input */
+"voice.input.title" = "Let's Chat";
+"voice.recording" = "I'm listening... 🎤";
+"voice.listening" = "Go ahead, I'm all ears...";
+"voice.ready.to.listen" = "Ready When You Are";
+"voice.tap.to.record" = "Tap & Tell Me";
+"voice.recognized.text" = "Recognized Text";
+"voice.parse.items" = "Processing...";
+"voice.permission.required" = "Microphone Access Required";
+"voice.permission.hint" = "I'd love to hear from you! Please enable microphone access 🎤";
+"voice.recording.hint" = "Just tell me naturally: 'I got 2 apples and 500ml of milk' 😊";
+"voice.processing.hint" = "Give me a moment to understand... ⚡";
+"voice.tap.hint" = "Ready to hear about your groceries! 🗣️";
+
+/* Recording hints (random) */
+"voice.recording.hint.1" = "Speak clearly: '3 bananas and 1 liter of milk' 🍌🥛";
+"voice.recording.hint.2" = "Say it naturally: '2 apples, 500g chicken, and some bread' 🍎🍗🍞";
+"voice.recording.hint.3" = "Include quantity: '6 eggs, 200ml cream, 1 bag rice' 🥚🍚";
+"voice.recording.hint.4" = "You can add expiration dates: 'fresh tomatoes expire tomorrow' 🍅⏰";
+"voice.recording.hint.5" = "Say multiple items: 'carrots, potatoes, 1kg beef' 🥕🥔🥩";
+"voice.recording.hint.6" = "Be specific with units: '250ml yogurt, 3 pieces cheese' 🧀";
+
+/* Tap hints (random) */
+"voice.tap.hint.1" = "Bobi's ready! What's new in your fridge? 🎤✨";
+"voice.tap.hint.2" = "Fill your fridge! Tap the mic and speak 🗣️🍽️";
+"voice.tap.hint.3" = "Voice magic! Tap to organize with Bobi 🪄🛒";
+"voice.tap.hint.4" = "Your fridge assistant is ready! 🤖❄️";
+"voice.tap.hint.5" = "You speak, Bobi remembers! Tap the mic 📝🎯";
+"voice.permission.description" = "Enable speech recognition in Settings.";
+"voice.cancel" = "Cancel";
+"voice.error.title" = "I missed that";
+"voice.error.ok" = "OK";
+"voice.parse.no.items" = "I didn't hear any food names.";
+"voice.parse.no.valid.food" = "Be more specific? Like 'apples' or 'milk' 😊";
+"voice.review.title" = "How did I do?";
+"voice.review.cancel" = "Not quite";
+"voice.review.save" = "Perfect!";
+"voice.review.edit" = "Edit";
+"voice.review.expires" = "Expires: %@";
+"voice.edit.title" = "Edit";
+"voice.edit.basic" = "Basic Info";
+"voice.edit.name" = "Name";
+"voice.edit.category" = "Category";
+"voice.edit.quantity" = "Quantity";
+"voice.edit.unit" = "Unit";
+"voice.edit.expiration" = "Expiration";
+"voice.edit.expiration.date" = "Expiration Date";
+"voice.edit.cancel" = "Cancel";
+"voice.edit.save" = "Save Changes";
+
+/* Volume Input */
+"voice.volume.input.required" = "Please specify quantity (e.g., 500ml).";
+
+/* Simulator Support */
+"voice.simulator.warning" = "Voice Input Unavailable";
+"voice.simulator.description" = "iOS simulator does not support voice input. Try demo mode!";
+"voice.simulator.demo" = "Try Demo";
+
+/* Languages */
+"language.english" = "English";
+"language.chinese.simplified" = "Simplified Chinese";
+"language.chinese.traditional" = "Traditional Chinese";
+
+/* BMR Calculation */
+"bmr.calculation.info" = "Uses the Harris-Benedict formula to calculate daily energy needs based on height, weight, age, gender, and activity level for personalized dietary advice.";
+"bmr.title" = "How Energy Target is Calculated";
+
+/* Family Setup Benefits */
+"family.setup.benefit.nutrition" = "Personalized nutrition advice.";
+"family.setup.benefit.portions" = "Optimal food portions.";
+"family.setup.benefit.family" = "Healthy family recipes.";
+
+/* Family Management */
+"family.management.title" = "Family Management";
+"family.management.my.family" = "My Family";
+"family.management.unnamed.family" = "Unnamed Family";
+"family.management.family.name" = "Family Name";
+"family.management.family.members" = "Family Members";
+"family.management.no.members" = "No family members added yet.";
+"family.management.enter.family.name" = "Enter Family Name";
+"family.management.tap.add.members" = "Tap to add family members.";
+"family.management.add.member" = "Add Member";
+"family.management.edit.member" = "Edit Member";
+"family.management.done" = "Done";
+"family.management.save" = "Save";
+"family.management.edit" = "Edit";
+"family.management.cancel" = "Cancel";
+"family.management.family.statistics" = "Family Statistics";
+"family.management.total.members" = "Total";
+"family.management.babies" = "Babies";
+"family.management.children" = "Children";
+"family.management.youth" = "Youth";
+"family.management.adults" = "Adults";
+"family.management.seniors" = "Seniors";
+"family.management.basic.information" = "Basic Information";
+"family.management.dietary.restrictions" = "Dietary Preferences";
+"family.management.name" = "Name";
+"family.management.age" = "Age";
+"family.management.gender" = "Gender";
+"family.management.height" = "Height";
+"family.management.weight" = "Weight";
+"family.management.activity.level" = "Activity Level";
+"family.management.male" = "Male";
+"family.management.female" = "Female";
+"family.management.months" = "months";
+"family.management.months.old" = "months old";
+"family.management.years.old" = "years old";
+
+/* Activity Levels */
+"activity.level.sedentary" = "Sedentary";
+"activity.level.light" = "Lightly Active";
+"activity.level.moderate" = "Moderately Active";
+"activity.level.active" = "Very Active";
+"activity.level.very.active" = "Extremely Active";
+
+/* Dietary Restrictions */
+"dietary.restriction.vegetarian" = "Vegetarian";
+"dietary.restriction.vegan" = "Vegan";
+"dietary.restriction.gluten.free" = "Gluten-Free";
+"dietary.restriction.dairy.free" = "Dairy-Free";
+"dietary.restriction.nut.free" = "Nut-Free";
+"dietary.restriction.low.sodium" = "Low Sodium";
+"dietary.restriction.diabetic" = "Diabetic Diet";
+"dietary.restriction.kosher" = "Kosher";
+"dietary.restriction.halal" = "Halal";
+"dietary.restriction.count.1" = "1 preference";
+"dietary.restriction.count.2" = "2 preferences";
+"dietary.restriction.count.3" = "3 preferences";
+"dietary.restriction.count.4" = "4 preferences";
+"dietary.restriction.count.5" = "5 preferences";
+"dietary.restriction.count.6" = "6 preferences";
+"dietary.restriction.count.7" = "7 preferences";
+"dietary.restriction.count.8" = "8 preferences";
+"dietary.restriction.count.9" = "9 preferences";
+"dietary.restriction.count.10" = "10 preferences";
+
+
+/* Age Categories */
+"age.category.baby" = "Baby";
+"age.category.child" = "Child";
+"age.category.youth" = "Youth";
+"age.category.adult" = "Adult";
+"age.category.senior" = "Senior";
+
+/* Recipe Setup */
+"recipe.setup.title" = "Set Up Family";
+"recipe.setup.description" = "Tell Bobi about your family for personalized meal suggestions.";
+"recipe.setup.now" = "Set Up Now";
+"recipe.setup.later" = "Later";
+
+/* App Settings */
+"app.icon.change" = "Change App Icon";
+"feedback.beta" = "Feedback & Beta";
+"gogofridge.and.me" = "About Bobi";
+
+/* Family Possessive */
+"family.possessive.suffix" = "'s Home";
+
+/* Food Group Management */
+"food.group.total.items" = "%d Batches Total";
+"food.group.total.quantity" = "Total: %d %@";
+"food.group.total.quantity.formatted" = "Total: %@";
+"food.group.earliest.expiry" = "Earliest Expiry: %@";
+"food.group.back" = "Back";
+"food.group.add.similar" = "Add Another Batch";
+"food.group.edit" = "Edit Group";
+"food.group.delete" = "Delete Group";
+"food.group.delete.alert.title" = "Delete This Group?";
+"food.group.delete.alert.message" = "'%@' and all its contents will be deleted. This action cannot be undone.";
+"food.group.delete.confirm" = "Confirm Delete";
+"food.group.cancel" = "Cancel";
+"food.group.purchase.date" = "Purchase Date: %@";
+"food.group.add.to" = "Add to %@ Group";
+"food.group.basic.info" = "Basic Information";
+"food.group.name.placeholder" = "Name (e.g., Red Apple)";
+"food.group.dates" = "Dates";
+"food.group.purchase.date.label" = "Purchase Date";
+"food.group.has.expiration" = "Has Expiration Date";
+"food.group.expiration.date.label" = "Expiration Date";
+"food.group.save" = "Save";
+
+/* Edit Food Group */
+"edit.group.current" = "Current Group: %@";
+"edit.group.core.keyword" = "Core Keyword: %@";
+"edit.group.subitems.count" = "%d Batches";
+"edit.group.info" = "Group Information";
+"edit.group.name" = "Group Name";
+"edit.group.keyword.change" = "Group Name Changed";
+"edit.group.keyword.not.contains" = "New name '%@' does not contain core keyword '%@'.";
+"edit.group.suggested.keyword" = "Suggested new core keyword: '%@'";
+"edit.group.keyword.tip" = "💡 Changing the name can update the core keyword for better grouping.";
+"edit.group.name.section" = "Group Name";
+"edit.group.name.footer" = "Keep names simple and clear (e.g., 'Red Apple', 'Organic Apple').";
+"edit.group.custom.icon" = "Custom Icon";
+"edit.group.icon" = "Icon";
+"edit.group.use.default.icon" = "Use Default Icon";
+"edit.group.subitems.preview" = "View Contents";
+"edit.group.more.items" = "and %d more...";
+"edit.group.title" = "Edit Group";
+"edit.group.save.failed" = "Save Failed";
+"edit.group.name.empty" = "Enter a Name";
+"edit.group.update.keyword" = "Update Core Keyword?";
+"edit.group.update.keyword.message" = "The core keyword for '%@' is now '%@', different from '%@'.\n\nUpdating will use '%@' for future grouping.";
+"edit.group.update.confirm" = "Update";
+"edit.group.ok" = "OK";
+"edit.group.cancel" = "Cancel";
+"edit.group.save" = "Save";
+
+/* Units */
+"unit.item" = "pcs";
+"unit.lbs" = "lbs";
+"unit.oz" = "oz";
+"unit.kg" = "kg";
+"unit.g" = "g";
+"unit.L" = "L";
+"unit.mL" = "mL";
+"unit.cups" = "cups";
+"unit.tbsp" = "tbsp";
+"unit.tsp" = "tsp";
+"unit.gal" = "gal";
+
+/* New Recipe Localization Keys */
+"recipe.seasonal.spring.message" = "Bobi recommends light and fresh spring dishes.";
+"recipe.seasonal.summer.message" = "Bobi recommends cooling summer dishes - cold salads, chilled soups, and frozen treats to beat the heat.";
+"recipe.seasonal.autumn.message" = "Bobi's nourishing dishes for cooler autumn weather.";
+"recipe.seasonal.winter.message" = "Bobi's warm soups and porridges for cold weather.";
+
+"baby.food.stage1.title" = "Stage 1 Puree (6-8 mos)";
+"baby.food.stage2.title" = "Stage 2 Chunky (9-12 mos)";
+"baby.food.stage1.subtitle" = "Smooth & Nutritious";
+"baby.food.stage2.subtitle" = "Chewing Practice, New Flavors";
+"baby.food.stage1.message" = "For 6-8 month olds, Bobi offers smooth purees, focusing on iron and easy digestion.";
+"baby.food.stage2.message" = "For 9-12 month olds, Bobi recommends recipes with soft chunks to encourage chewing and new tastes.";
+"baby.food.general.message" = "Bobi creates balanced baby meals from fridge ingredients (protein, veggies, carbs), with age suitability.";
+"recipe.soft.texture.message" = "Bobi recommends soft, easy-to-chew, and digestible dishes for all.";
+
+"no.ingredients.title" = "Fridge is Empty";
+"no.ingredients.description" = "Fill your fridge for delicious recipes!";
+
+"cooking.steps.title" = "Cooking Guide";
+"cooking.steps.none" = "No Steps Yet";
+"cooking.guide.title" = "Cooking Guide";
+"done" = "Done";
+
+"recipe.nutrition.title" = "Nutrition Info";
+"recipe.ingredients.title" = "Ingredients";
+"recipe.tips.title" = "Tips";
+"recipe.parsing" = "Parsing recipe...";
+
+"confirm.data.reset" = "Confirm Data Reset?";
+"cancel" = "Cancel";
+"reset" = "Reset";
+"data.reset.message" = "This clears all our memories together:\n• Fridge treasures\n• Shopping lists\n• Family profiles\n\nThis can't be undone!";
+"data.reset.complete" = "All fresh and clean! Let's start over.";
+"ok" = "OK";
+"data.cleared.message" = "All data cleared successfully.";
+
+"change.app.icon" = "Change App Icon";
+
+"feedback.description" = "Help me grow by sharing your thoughts!";
+"feedback.quick.title" = "Quick Survey";
+"feedback.quick.description" = "Share your experience in a quick survey to help us improve.";
+"feedback.give.feedback" = "Take Survey";
+"research.join.title" = "Join Bobi's Journey";
+"research.join.description" = "Explore new features and help make Bobi better with your suggestions.";
+"research.benefits.early.access" = "Early access to new features.";
+"research.benefits.suggestions" = "Your ideas come to life.";
+"research.benefits.no.pressure" = "Leave anytime, no pressure.";
+"research.join.beta" = "Join Beta Program";
+"contact.say.hi.title" = "Contact Developer";
+"contact.description" = "Have feedback for Bobi's creator? We'd love to hear from you.";
+"contact.write.email" = "Email Developer";
+"feedback.beta.title" = "Feedback & Help";
+
+"about.description.intro" = "Hi, I'm Bobi! Created by a developer-dad who got tired of forgotten groceries and food waste. I'm here to make your kitchen life easier and more joyful.";
+"about.description.features" = "I'm more than a tracker—I'm your kitchen companion. I help manage your fridge, reduce waste, and plan nutritious meals. Think of me as your quiet, reliable friend who lets you focus on what matters: enjoying meals with loved ones.";
+"about.description.footer" = "Thanks for welcoming Bobi into your kitchen. Every meal we plan together fills my heart.";
+"about.navigation.title" = "About Bobi";
+
+"recipe.ai.recommendation" = "Bobi's AI Ideas";
+"recipe.default.health.tip" = "Eat Well, Live Well";
+
+/* App Icon Display Names */
+"app.icon.display.name.default" = "Classic";
+"app.icon.display.name.blue" = "Ocean Blue";
+"app.icon.display.name.green" = "Forest Green";
+"app.icon.display.name.red" = "Fiery Red";
+"app.icon.display.name.yellow" = "Sunny Yellow";
+"app.icon.display.name.chicken" = "Crispy Chicken";
+"app.icon.display.name.milk" = "Fresh Milk";
+"app.icon.display.name.banana" = "Sweet Banana";
+"app.icon.display.name.rainbow" = "Rainbow Delight";
+"app.icon.display.name.ice" = "Ice Block";
+
+/* Age Picker Component */
+"age.picker.mode.years" = "Years";
+"age.picker.mode.months" = "Months";
+"age.picker.years.label" = "Select Age";
+"age.picker.months.label" = "Select Months";
+"age.picker.year.singular" = "year";
+"age.picker.year.plural" = "years";
+"age.picker.month.singular" = "month";
+"age.picker.month.plural" = "months";
+"age.picker.selected.label" = "Selected";
+"age.picker.no.selection" = "No Selection";
+
+/* Food Photo */
+"food.photo" = "Photo";
+"photo.placeholder" = "Take Photo";
+"photo.delete.title" = "Delete Photo?";
+"photo.delete.message" = "This action cannot be undone.";
+"photo.delete.confirm" = "Delete";
+"photo.delete.cancel" = "Cancel";
+"photo.overwrite.title" = "Change Photo?";
+"photo.overwrite.message" = "Original photo will be deleted.";
+"photo.overwrite.confirm" = "Replace";
+"photo.overwrite.cancel" = "Keep Original";
+
+/* Camera Permissions */
+"permissions.camera" = "Camera";
+"permissions.camera.description" = "Take a photo of the ingredient.";
+"permissions.location" = "Location";
+"permissions.location.description" = "Allows Bobi to get local weather for smart recipe recommendations.";
+"camera.permission.not.determined" = "Not Requested";
+"camera.permission.restricted" = "Restricted";
+"camera.permission.denied" = "Denied";
+"camera.permission.authorized" = "Authorized";
+"camera.permission.unknown" = "Unknown";
+"camera.unavailable.title" = "Camera Unavailable";
+"camera.unavailable.message" = "Camera is not available on this device. Would you like to select a photo from your library instead?";
+"camera.permission.denied.title" = "Camera Access Required";
+"camera.permission.denied.message" = "Please allow camera access in Settings to take photos.";
+"photo.library.select" = "Choose from Library";
+/* New Missing Keys for Hardcoded Text Fixes */
+"food.details.stock.alert.help" = "Enables restock reminders based on shopping list settings.";
+"food.details.delete.confirm" = "Are you sure you want to delete this item?";
+"emoji.picker.title" = "Select Emoji";
+
+/* New localization keys for HomeStatusView */
+"mood.remaining.hours" = "Remaining %d hours";
+"recipe.recommendation.prefix" = "Already recommended for you";
+"recipe.recommendation.description" = "This is an AI-curated dish specially recommended for you, tailored based on your mood and current time.";
+"recipe.view.details" = "View detailed recipe";
+"mood.selection.required" = "Please select your mood first, and I'll recommend suitable dishes for you";
+"recipe.default.dish.name" = "Recommended dish";
+"user.mood.unknown" = "Unknown";
+"weather.mood.prompt" = "Please recommend a warm family dish based on current weather and mood conditions.";
+"bobi.random.greetings.1" = "Let's cook something great! 🍳";
+"bobi.random.greetings.2" = "Ready for kitchen magic? ✨";
+"bobi.random.greetings.3" = "What's cooking today? 💭";
+"bobi.random.greetings.4" = "Hungry? Find your craving. 🤔";
+"bobi.random.greetings.5" = "Got delicious ideas. 👨‍🍳";
+"bobi.random.greetings.6" = "Kitchen adventure? Recipe awaits! ✨";
+"bobi.random.greetings.7" = "Cook up some happiness! 🎉";
+"bobi.random.greetings.8" = "Good to see you! What's cooking? 😊";
+"bobi.random.greetings.9" = "The kitchen awaits. Create something new? 🎨";
+"bobi.random.greetings.10" = "Perfect day to cook! ☀️";
+"bobi.random.greetings.11" = "Welcome back! Pot missed you. 😉";
+"bobi.random.greetings.12" = "Ready to cook joy? 🥕";
+"user.mood.context" = "User mood: %@";
+"user.mood.context.unknown" = "User mood: Unknown";
+
+/* Data Recovery Keys */
+"data.recovery.title" = "Oops, a little hiccup!";
+"data.recovery.description" = "I had a little trouble loading your data, maybe from a recent update. Let's get it sorted!";
+"data.recovery.reset" = "Clear Data & Retry";
+"data.recovery.restart" = "Restart App";
+"data.recovery.error.details" = "Error Details:";
+"data.recovery.confirm.title" = "Confirm Reset?";
+"data.recovery.reset.button" = "Confirm Reset";
+"data.recovery.confirm.message" = "This will erase all data (fridge items, shopping list, etc.) and cannot be undone.";
+
+/* Emoji Picker Additional Keys */
+"emoji.picker.current.selection" = "Current Selection";
+"emoji.picker.select.prompt" = "Select an Emoji";
+
+/* Shopping Item Additional Keys */
+"shopping.delete.confirm" = "Are you sure you want to remove this item from the list?";
+
+/* Unit Conversion Explanations */
+"unit.conversion.explanation" = "Bobi will store using international standard units";
+"unit.conversion.weight.to.g" = "Stored as %@ g";
+"unit.conversion.volume.to.ml" = "Stored as %@ mL";
+"unit.conversion.count" = "Stored as %@ pcs";
+"unit.conversion.detail.message" = "To ensure data accuracy and consistency, Bobi automatically converts your input quantities to international standard units for storage. The display will still follow your preferences and habits in the setting.";
+
+"common.ok" = "OK";
+
+"no.ingredients.alert.title" = "Fridge is Empty";
+"no.ingredients.alert.message" = "Please add some ingredients to your fridge first, then Bobi can recommend delicious recipes for you\!";
+
+// Recipe cooking related
+"recipe.cook.title" = "Cook Recipe";
+"recipe.cook.button" = "Start Cooking This Dish";
+"recipe.cook.selected" = "Already Selected";
+"recipe.cook.confirm.title" = "Confirm Recipe Cooking";
+"recipe.cook.confirm.message" = "Cooking this dish will consume the corresponding ingredients from your fridge. Are you sure you want to continue?";
+"recipe.cook.confirm.button" = "Confirm Cooking";
+"recipe.cook.already.selected.title" = "Recipe Already Selected";
+"recipe.cook.already.selected.message" = "You have already selected to cook this dish. Cooking again will consume ingredients again. Are you sure you want to continue?";
+"recipe.cook.again.button" = "Cook Again";
+
+/* History Records */
+"history.title" = "History";
+"history.overview.title" = "Usage Statistics";
+"history.overview.subtitle" = "Food purchase and consumption records";
+
+"history.time.today" = "Today";
+"history.time.week" = "This Week";
+"history.time.month" = "This Month";
+
+"history.statistics.title" = "Statistics Overview";
+"history.recent.title" = "Recent Records";
+"history.empty.title" = "No Records Yet";
+"history.empty.message" = "Start using Bobi to record your food journey!";
+
+"history.type.adjustment" = "Quantity Adjustment";
+"history.stats.adjustments" = "Adjustments";
+"history.stats.purchases" = "Purchase";
+"history.stats.consumption" = "Used";
+"history.stats.cooking" = "Cooking";
+"history.stats.recipes" = "Recipes";
+"history.stats.expired" = "Expired";
+"history.stats.dishes" = "Dishes";
+"history.today" = "Today";
+"history.yesterday" = "Yesterday";
+"history.items" = "items";
+"history.adjustment.description" = "Adjusted {item} by {quantity}";
+"quantity.adjustment.from.to" = "Adjusted quantity from {oldQuantity} to {newQuantity}";
+"manually.deleted.expired.item" = "Manually deleted expired item";
+"expired.on.date" = "Expired on {date}";
+"history.loading" = "Loading...";
+
+"history.filter.all" = "All";
+"history.type.purchase" = "Purchase";
+"history.type.consumption" = "Consumption";
+"history.type.expiration" = "Expiration";
+"history.type.recipeTrial" = "Recipe Trials";
+"history.type.recipeMade" = "Recipes Made";
+"history.recipeTrial.recipe" = "Tried {recipe}";
+
+"history.cleanup.auto.info" = "Auto-cleans records older than 30 days";
+"history.cleanup.all" = "Clear All Records";
+"history.cleanup.confirm.title" = "Confirm Cleanup";
+"history.cleanup.confirm.message" = "This action will permanently delete all history records and cannot be undone. Are you sure you want to continue?";
+"history.cleanup.confirm.button" = "Confirm Cleanup";
+
+/* Receipt Scan AI Usage End */
+
+/* Translation Settings */
+"settings.join.translation" = "Join Translation";
+
+/* Join Translation View */
+"translation.navigation.title" = "Join Translation";
+"translation.join.title" = "Help Translate Bobi";
+"translation.join.subtitle" = "Make Bobi accessible to more people around the world";
+
+"translation.why.join.title" = "Why Join Our Translation Community?";
+"translation.benefit.community" = "Connect with a global community of food lovers";
+"translation.benefit.early.access" = "Get early access to new features and updates";
+"translation.benefit.recognition" = "Be recognized as a valued contributor";
+"translation.benefit.rewards" = "Receive special rewards and surprises";
+
+"translation.contributors.title" = "Our Amazing Contributors";
+"translation.ready.to.help" = "Ready to help make Bobi global? 🌍";
+"translation.join.button" = "Join Translation Team";
+"translation.form.description" = "Fill out a quick form to express your interest in contributing translations";
+
+/* Recipe Ingredients */
+"recipe.ingredients.add_to_cart" = "Add Ingredients to Shopping List";
+"recipe.ingredients.description" = "Add the recommended recipe ingredients to your shopping list:";
+"recipe.ingredients.add_all" = "Add All to Shopping List";
+"recipe.ingredients.waiting" = "Waiting for recipe recommendation...";
+"recipe.ingredients.add_confirmation_title" = "Add Ingredients to Shopping List";
+"recipe.ingredients.add_confirmation_message" = "Do you want to add the following ingredients to your shopping list?";
+"recipe.ingredients.added" = "Added to Shopping List";
+
+/* Recipe Detail */
+"recipe.detail.reason.title" = "Why This Dish?";
+"recipe.detail.ingredients.title" = "Ingredients";
+"recipe.detail.nutrition.title" = "Nutrition Information";
+"recipe.detail.nutrition.highlights" = "Nutrition Highlights";
+"recipe.detail.nutrition.details" = "Nutrition Details";
+"recipe.detail.steps.title" = "Cooking Steps";
+
+/* Nutrition Terms */
+"nutrition" = "Nutrition";
+"nutrition.protein" = "Protein";
+"nutrition.fat" = "Fat";
+"nutrition.carbs" = "Carbs";
+"nutrition.fiber" = "Fiber";
+"nutrition.calories" = "Calories";
+"nutrition.other" = "Other";
+
+/* Nutrition Highlights */
+"nutrition.highlight.high_protein" = "High Protein";
+"nutrition.highlight.carbs" = "Carbs";
+"nutrition.highlight.healthy_fat" = "Healthy Fat";
+"nutrition.highlight.high_fiber" = "High Fiber";
+"nutrition.highlight.low_calorie" = "Low Calorie";
+"nutrition.highlight.high_energy" = "High Energy";
+"nutrition.highlight.balanced" = "Balanced";
+"nutrition.highlight.homestyle" = "Homestyle";
+"nutrition.highlight.simple" = "Simple";
+"nutrition.highlight.vitamin_c" = "Vitamin C";
+"nutrition.highlight.low_fat" = "Low Fat";
+
+/* Weather Error Messages */
+"weather.error.timeout" = "Weather service timeout";
+"weather.error.invalid_state" = "Weather service invalid state";
+
+/* Multiple Receipt Support */
+"receipt.scan.all_failed" = "Failed to process all {count} receipts. Please try again with better lighting.";
+"receipt.scan.no_items_found_multiple" = "Successfully processed {processed}/{total} receipts, but no food items were found.";
+"receipt.scan.partial_success" = "Successfully processed {success}/{total} receipts and found {items} food items.";
+"receipt.scan.multiple_success" = "Great! Successfully processed all {count} receipts and found {items} food items.";
+"receipt.scan.traditional_method_used" = "Note: {count} receipt(s) used traditional parsing due to AI limitations.";
+"receipt.scan.mixed_methods" = "AI processed {ai} receipt(s), traditional method processed {traditional} receipt(s).";
+"receipt.scan.single_traditional" = "Receipt processed using traditional parsing method due to AI limitations.";

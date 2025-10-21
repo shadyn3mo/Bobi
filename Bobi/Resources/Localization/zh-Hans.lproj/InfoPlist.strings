@@ -1,0 +1,11 @@
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "此应用需要使用麦克风来录制您的语音，以便添加食物项目。";
+
+/* Privacy - Speech Recognition Usage Description */
+"NSSpeechRecognitionUsageDescription" = "此应用使用语音识别功能，让您可以通过语音添加食物项目。";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "此应用需要使用相机为您的食物拍照，以便更好地管理食物。";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "此应用需要使用您的位置信息来提供准确的天气信息，以便为您推荐合适的膳食。";

@@ -1,0 +1,1491 @@
+/* Common */
+"common.cancel" = "算啦";
+"common.edit" = "改一改";
+"common.delete" = "扔掉";
+"common.done" = "好啦";
+"common.quantity" = "有多少呢？";
+
+/* Unit Guidance */
+"unit.guidance.message" = "用更准的单位，才好计算哦";
+
+/* Floating Action Button */
+"fab.show" = "看看能做什么";
+"fab.hide" = "藏起来";
+
+/* Tab bar items */
+"tab.home" = "今日推荐";
+"tab.fridge" = "Bobi空间";
+"tab.shopping" = "采购单";
+"tab.inventory" = "食物柜";
+"tab.recipes" = "Bobi厨房";
+"tab.settings" = "设置";
+
+/* Home Page */
+"home.greeting.default" = "欢迎来到Bobi！";
+"home.title" = "智能首页";
+"home.subtitle" = "您的个性化厨房助手";
+"home.daily.nutrition" = "每日营养";
+"home.calorie.needs" = "您的家庭今日需要%d卡路里";
+"home.last.updated" = "最后更新";
+"home.loading.message" = "正在加载首页状态...";
+"home.empty.title" = "欢迎来到Bobi！";
+"home.empty.message" = "添加一些食材，开始获得智能建议";
+"calorie.daily" = "每日卡路里";
+
+/* Mood Prompts */
+"mood.prompt.title" = "需要您的心情信息";
+"mood.prompt.first_time" = "告诉Bobi您现在的心情吧！";
+"mood.prompt.first_time_detail" = "选择心情后，我会为您推荐更合适的美食";
+"mood.prompt.refresh" = "您的心情已经6小时没有更新了";
+"mood.prompt.refresh_detail" = "重新选择心情，获得更贴心的推荐";
+"mood.prompt.direction" = "请在上方\"您今天感觉如何？\"中选择";
+"mood.prompt.direction_up" = "请在上方选择您的心情";
+
+/* Meal Suggestions */
+"meal.suggestion.mood_required" = "请先选择您的心情";
+"meal.suggestion.mood_required_detail" = "告诉Bobi您的心情，获得个性化美食推荐";
+"meal.suggestion.generating" = "正在为您精心准备推荐...";
+"meal.suggestion.generating.detail" = "Bobi正在根据您的心情和天气为您推荐最适合的菜品";
+"weather.fetch.failed" = "天气信息获取失败";
+"weather.fetch.failed_detail" = "无法获取天气数据来生成个性化推荐\n请检查位置权限或网络连接";
+
+/* AI Service */
+"ai.service.unavailable" = "AI服务暂时不可用";
+"ai.service.unavailable.detail" = "请稍后再试，或查看其他功能";
+"ai.service.retry" = "重试";
+"ai.daily.limit.exceeded" = "今日免费AI推荐已用完";
+"ai.daily.limit.exceeded.detail" = "您可以设置自定义API密钥继续使用AI推荐功能";
+"ai.setup.custom.api" = "设置自定义API";
+"ai.prompt.breakfast" = "请根据我现在的情况，推荐一道营养的早餐吧。";
+"ai.prompt.lunch" = "请根据我现在的情况，推荐一道温暖的家常菜吧。";
+"ai.prompt.dinner" = "请根据我现在的情况，推荐一道温馨的晚餐吧。";
+"ai.prompt.snack" = "请根据我现在的情况，推荐一道简单的小食或点心吧。";
+
+/* Enhanced Greetings - Early Morning (5-9) */
+"enhanced.greeting.early_morning.weekday.1" = "清晨好！新的一天开始了，准备好迎接挑战了吗？";
+"enhanced.greeting.early_morning.weekday.2" = "早安！今天又是充满可能的一天！";
+"enhanced.greeting.early_morning.weekday.3" = "晨光正好！愿您今天精神满满！";
+"enhanced.greeting.early_morning.weekday.4" = "清晨问候！让我们一起开启美好的一天！";
+"enhanced.greeting.early_morning.weekday.5" = "早上好！新的一天，新的开始！";
+
+"enhanced.greeting.early_morning.weekend.1" = "周末早安！今天可以慢慢享受生活的美好！";
+"enhanced.greeting.early_morning.weekend.2" = "悠闲的早晨！周末时光就该这样惬意！";
+"enhanced.greeting.early_morning.weekend.3" = "周末好！不如为自己准备一顿丰盛的早餐？";
+"enhanced.greeting.early_morning.weekend.4" = "美好的周末早晨！放慢脚步，享受当下！";
+"enhanced.greeting.early_morning.weekend.5" = "周末的清晨！给自己一个温柔的开始！";
+
+/* Enhanced Greetings - Morning (9-12) */
+"enhanced.greeting.morning.weekday.1" = "上午好！工作之余也要记得照顾好自己！";
+"enhanced.greeting.morning.weekday.2" = "美好的上午！希望您今天一切顺利！";
+"enhanced.greeting.morning.weekday.3" = "上午时光！让Bobi为您的一天加点味道！";
+"enhanced.greeting.morning.weekday.4" = "忙碌的上午！别忘了给自己一个小小的犒赏！";
+"enhanced.greeting.morning.weekday.5" = "活力上午！今天想尝试什么新口味呢？";
+
+"enhanced.greeting.morning.weekend.1" = "周末上午好！今天有什么特别想吃的吗？";
+"enhanced.greeting.morning.weekend.2" = "悠闲上午！不如来点特别的料理？";
+"enhanced.greeting.morning.weekend.3" = "周末时光！正是尝试新菜谱的好时候！";
+"enhanced.greeting.morning.weekend.4" = "美好的周末上午！为家人准备一顿温馨的料理吧！";
+"enhanced.greeting.morning.weekend.5" = "自在的上午！让我们一起探索美食的乐趣！";
+
+/* Enhanced Greetings - Noon (12-14) */
+"enhanced.greeting.noon.1" = "午安！正是午餐时间，饿了吧？";
+"enhanced.greeting.noon.2" = "中午好！该补充能量啦！";
+"enhanced.greeting.noon.3" = "午餐时光！今天想来点什么呢？";
+"enhanced.greeting.noon.4" = "正午好！让我为您推荐一道暖心料理！";
+"enhanced.greeting.noon.5" = "午间问候！简单美味，正是此刻所需！";
+
+/* Enhanced Greetings - Afternoon (14-17) */
+"enhanced.greeting.afternoon.weekday.1" = "下午好！忙碌中别忘了关爱自己！";
+"enhanced.greeting.afternoon.weekday.2" = "午后时光！来杯茶歇息一下？";
+"enhanced.greeting.afternoon.weekday.3" = "下午好！为晚餐提前做个小准备如何？";
+"enhanced.greeting.afternoon.weekday.4" = "愉快的下午！今天想给家人什么惊喜呢？";
+"enhanced.greeting.afternoon.weekday.5" = "下午问候！简单的小食也能带来大满足！";
+
+"enhanced.greeting.afternoon.weekend.1" = "悠闲下午好！周末就该慢慢享受！";
+"enhanced.greeting.afternoon.weekend.2" = "惬意的下午！不如来点手作的温暖？";
+"enhanced.greeting.afternoon.weekend.3" = "午后阳光正好！适合和家人一起下厨！";
+"enhanced.greeting.afternoon.weekend.4" = "周末下午！让厨房充满欢声笑语！";
+"enhanced.greeting.afternoon.weekend.5" = "慵懒下午！简单料理，温暖人心！";
+
+/* Enhanced Greetings - Early Evening (17-19) */
+"enhanced.greeting.early_evening.weekday.1" = "傍晚好！辛苦一天了，该犒赏自己啦！";
+"enhanced.greeting.early_evening.weekday.2" = "晚餐时间！今天想为家人准备什么呢？";
+"enhanced.greeting.early_evening.weekday.3" = "黄昏问候！美好的一天即将结束！";
+"enhanced.greeting.early_evening.weekday.4" = "傍晚时光！让美食为这一天画上完美句号！";
+"enhanced.greeting.early_evening.weekday.5" = "工作结束啦！是时候享受家的温暖了！";
+
+"enhanced.greeting.early_evening.weekend.1" = "周末傍晚！家人团聚的美好时光！";
+"enhanced.greeting.early_evening.weekend.2" = "夕阳西下！不如来顿丰盛的家庭晚餐？";
+"enhanced.greeting.early_evening.weekend.3" = "周末黄昏！最适合和亲爱的人分享美食！";
+"enhanced.greeting.early_evening.weekend.4" = "温馨傍晚！让厨房的香气填满整个家！";
+"enhanced.greeting.early_evening.weekend.5" = "悠闲晚餐时光！周末就该这样惬意！";
+
+/* Enhanced Greetings - Evening (19-22) */
+"enhanced.greeting.evening.weekday.1" = "晚上好！一天的疲惫，让美食来抚慰！";
+"enhanced.greeting.evening.weekday.2" = "夜晚问候！希望您度过了充实的一天！";
+"enhanced.greeting.evening.weekday.3" = "晚安时光！简单的料理也能带来满满幸福！";
+"enhanced.greeting.evening.weekday.4" = "夜幕降临！是时候享受宁静的家庭时光了！";
+"enhanced.greeting.evening.weekday.5" = "温柔夜晚！让我为您的晚餐增添一份温暖！";
+
+"enhanced.greeting.evening.weekend.1" = "周末夜晚！最适合和家人朋友聚餐！";
+"enhanced.greeting.evening.weekend.2" = "美好夜晚！让我们一起创造温馨的回忆！";
+"enhanced.greeting.evening.weekend.3" = "周末之夜！不如来道特别的料理庆祝？";
+"enhanced.greeting.evening.weekend.4" = "惬意夜晚！周末就该这样悠闲自在！";
+"enhanced.greeting.evening.weekend.5" = "温馨夜晚！家的味道最是暖人心！";
+
+/* Enhanced Greetings - Night (22-5) */
+"enhanced.greeting.night.1" = "夜深了！如果饿了，让我推荐些简单的夜宵！";
+"enhanced.greeting.night.2" = "夜晚好！熬夜的您辛苦了！";
+"enhanced.greeting.night.3" = "深夜问候！简单美味，陪伴您的夜晚！";
+"enhanced.greeting.night.4" = "夜色温柔！希望您有个美好的夜晚！";
+"enhanced.greeting.night.5" = "夜已深！记得照顾好自己！";
+
+/* Weather-aware Greetings */
+"enhanced.greeting.morning.sunny.1" = "阳光明媚的早晨！今天特别适合清爽的料理！";
+"enhanced.greeting.morning.rainy.1" = "雨天早晨！来碗热腾腾的汤暖暖身子吧！";
+"enhanced.greeting.morning.cold.1" = "寒冷的早晨！热乎乎的料理正是您需要的！";
+"enhanced.greeting.morning.hot.1" = "炎热的早晨！清淡的料理更适合今天！";
+
+"enhanced.greeting.afternoon.sunny.1" = "阳光灿烂的下午！心情是不是也特别好？";
+"enhanced.greeting.afternoon.rainy.1" = "雨天下午！窝在家里享受美食的好时光！";
+"enhanced.greeting.afternoon.cold.1" = "天气有些冷！来道暖身的料理如何？";
+"enhanced.greeting.afternoon.hot.1" = "炎热的下午！清爽的料理最适合不过了！";
+
+"enhanced.greeting.evening.sunny.1" = "夕阳西下！美好的一天即将结束！";
+"enhanced.greeting.evening.rainy.1" = "雨夜朦胧！最适合在家享受温暖的晚餐！";
+"enhanced.greeting.evening.cold.1" = "寒冷的夜晚！热腾腾的料理温暖您的心！";
+"enhanced.greeting.evening.hot.1" = "闷热的夜晚！来点清淡的料理降降火！";
+
+/* Mood-aware Greetings */
+"enhanced.greeting.morning.happy.1" = "开心的早晨！好心情从美味早餐开始！";
+"enhanced.greeting.morning.tired.1" = "有些疲惫的早晨！简单营养的料理为您补充能量！";
+"enhanced.greeting.morning.stressed.1" = "感到压力的早晨！让美食为您带来片刻安慰！";
+"enhanced.greeting.morning.calm.1" = "宁静的早晨！平和的心境配上温和的料理！";
+
+"enhanced.greeting.evening.happy.1" = "愉快的夜晚！好心情就该配美食庆祝！";
+"enhanced.greeting.evening.tired.1" = "疲惫的夜晚！简单的料理不会增加您的负担！";
+"enhanced.greeting.evening.stressed.1" = "压力山大的夜晚！让温暖的料理抚慰您的心！";
+"enhanced.greeting.evening.sad.1" = "心情低落的夜晚！美食的力量总能带来慰藉！";
+
+/* Seasonal Greetings */
+"enhanced.greeting.morning.spring.1" = "春暖花开的早晨！万物复苏，胃口也要跟着清新！";
+"enhanced.greeting.morning.summer.1" = "夏日清晨！清爽料理迎接活力一天！";
+"enhanced.greeting.morning.autumn.1" = "秋高气爽的早晨！丰收季节，美食也更丰富！";
+"enhanced.greeting.morning.winter.1" = "冬日暖阳！热腾腾的料理驱散寒意！";
+
+// Mood selection
+"mood.selection.title" = "您今天感觉如何？";
+
+// Warm encouragement
+"warm.encouragement.title" = "温暖鼓励";
+"warm.encouragement.loading" = "正在为您准备温暖的话语...";
+
+// Dish recommendations based on weather
+"dish.recommendation.title" = "今日推荐菜品";
+
+// Default dish recommendations (fallback)
+"weather.sunny.default" = "推荐清爽凉菜：凉拌黄瓜，爽口解腻，适合阳光明媚的日子！☀️";
+"weather.rainy.default" = "推荐暖胃热汤：紫菜蛋花汤，温暖心房，雨天最佳选择。🌧️";
+"weather.cloudy.default" = "推荐家常小炒：番茄炒蛋，简单美味，多云天气的舒适选择。☁️";
+"weather.cold.default" = "推荐温补热粥：小米粥配咸菜，暖身养胃，寒冷天气必备。🧊";
+"weather.hot.default" = "推荐消暑凉品：绿豆汤，清热解毒，炎热天气最解渴。🔥";
+"weather.windy.default" = "推荐清淡蒸菜：蒸蛋羹，嫩滑营养，有风的日子很舒适。💨";
+"weather.snowy.default" = "推荐热腾腾火锅：简易小火锅，雪天围炉最温暖。❄️";
+
+// Mood additions (fallback)
+"mood.happy.addition" = "看到你心情这么好，真是太棒了！";
+"mood.excited.addition" = "你的兴奋感很有感染力！";
+"mood.calm.addition" = "平静的心境很珍贵，继续保持。";
+"mood.tired.addition" = "感觉累了就好好休息，身体健康最重要。";
+"mood.stressed.addition" = "压力大的时候记得深呼吸，一切都会过去的。";
+
+// AI generation loading
+"ai.generating.recommendation" = "生成个性化建议中...";
+"home.add.first.item" = "添加第一个食材";
+"home.warning.title" = "需要注意";
+"home.inventory.title" = "库存状态";
+"home.inventory.total.items" = "总数量";
+"home.inventory.expiring.items" = "即将过期";
+"home.inventory.expiring.preview" = "即将过期的食材";
+"home.inventory.expired" = "已过期";
+"home.inventory.expires.tomorrow" = "明天过期";
+"home.inventory.expires.in.days" = "%d天后过期";
+"home.meal.suggestion.title" = "膳食建议";
+"home.meal.ingredients.preview" = "主要食材";
+"home.meal.nutrition.highlights" = "营养亮点";
+"home.shopping.list.title" = "采购单";
+"home.shopping.list.subtitle" = "待采购物品";
+"home.shopping.total.items" = "总数量";
+"home.shopping.estimated.cost" = "预计花费";
+"home.shopping.urgent.items" = "紧急物品";
+"home.shopping.tip.urgent" = "有些物品库存告急";
+"home.shopping.tip.many.items" = "建议分批采购";
+"home.shopping.tip.high.cost" = "可考虑经济实惠的替代品";
+"home.shopping.tip.general" = "购物愉快！🛒";
+"home.life.tips.title" = "生活小贴士";
+"home.life.tips.empty" = "祝您今天愉快！";
+
+/* Weather */
+"weather.sunny" = "晴天";
+"weather.clear_night" = "夜空清朗";
+"weather.cloudy" = "多云";
+"weather.rainy" = "雨天";
+"weather.cold" = "寒冷";
+"weather.hot" = "炎热";
+"weather.unknown" = "未知";
+
+/* Stock Levels */
+"stock.empty" = "空";
+"stock.low" = "少";
+"stock.sufficient" = "充足";
+"stock.abundant" = "丰富";
+"stock.unknown" = "未知";
+
+/* Greetings */
+"weekday.morning.greeting" = "早上好！今天是工作日，准备好充实的一天了吗？";
+"weekend.morning.greeting" = "早上好！享受您的周末时光！";
+"afternoon.greeting" = "下午好！今天过得怎么样？";
+"evening.greeting" = "晚上好！该吃晚饭了吧？";
+"night.greeting" = "晚安！祝您好梦！";
+
+/* Meal Types */
+"meal.breakfast" = "早餐";
+"meal.lunch" = "午餐";
+"meal.dinner" = "晚餐";
+"meal.snack" = "小食";
+"meal.dessert" = "甜点";
+
+/* Difficulty Levels */
+"difficulty.easy" = "简单";
+"difficulty.medium" = "中等";
+"difficulty.hard" = "困难";
+
+/* Urgency Levels */
+"urgency.low" = "低";
+"urgency.normal" = "正常";
+"urgency.high" = "高";
+
+/* Life Tip Types */
+"tip.time.based" = "时间建议";
+"tip.weather.based" = "天气建议";
+"tip.encouragement" = "鼓励";
+"tip.nutrition" = "营养";
+"tip.general" = "常规";
+
+/* Additional Home Status Strings */
+"inventory.items.count" = "共%d件物品";
+"inventory.expiring.warning" = "%d件物品即将过期";
+"inventory.empty.description" = "您的冰箱空空如也";
+"nutrition.empty.tip" = "添加一些食材来获取营养建议";
+"nutrition.diverse.good" = "食物种类很丰富！";
+"nutrition.balanced.ok" = "食物搭配还不错";
+"nutrition.need.diversity" = "试试添加更多种类的食物";
+"priority.expiring.ingredients" = "优先使用即将过期的食材";
+"optimal.meal.suggestion" = "今日推荐";
+"family.suitable" = "全家适宜";
+"home.data.load.error" = "加载主页数据失败";
+"last.updated.unknown" = "最后更新时间未知";
+"last.updated" = "最后更新 %@";
+"weather.display" = "%@ %@";
+"inventory.empty.summary" = "您的冰箱是空的";
+"inventory.one.item.summary" = "您有1件物品";
+"inventory.multiple.items.summary" = "您有%d件物品";
+"life.tips.empty" = "暂无小贴士";
+"life.tips.default" = "祝您今天愉快！";
+"estimated.cost" = "预计花费：¥%@";
+"estimated.cost.unknown" = "花费未知";
+"no.expiring.items" = "没有即将过期的物品";
+"one.expiring.item" = "1件物品即将过期";
+"multiple.expiring.items" = "%d件物品即将过期";
+"no.urgent.shopping" = "没有紧急物品";
+"one.urgent.shopping" = "1件紧急物品";
+"multiple.urgent.shopping" = "%d件紧急物品";
+"stock.empty.warning" = "您的冰箱是空的";
+"stock.low.warning" = "食物库存不足";
+"daily.calorie.needs.unknown" = "每日卡路里需求未知";
+"weekday.evening.tip" = "工作日晚上，简单快手菜最合适";
+"weekend.brunch.tip" = "周末天气不错，适合悠闲的早午餐";
+"sunny.day.tip" = "阳光明媚，最适合做清爽的沙拉";
+"rainy.day.tip" = "下雨天，来碗热汤最温暖";
+"cold.day.tip" = "寒冷天气，需要丰盛的暖身餐";
+"encouragement.cooking.joy" = "烹饪是乐趣，不是负担！";
+"encouragement.healthy.eating" = "每一顿健康餐都是进步！";
+"encouragement.family.time" = "一起烹饪，创造美好回忆";
+"encouragement.waste.reduction" = "您在减少食物浪费方面做得很好！";
+"encouragement.general" = "在厨房里继续保持出色表现！";
+
+/* Cooking Time */
+"cooking.time.quick" = "快手%d分钟";
+"cooking.time.medium" = "%d分钟";
+"cooking.time.long" = "%d分钟";
+
+/* Loading States */
+"analyze.ingredients" = "分析食材中...";
+"generate.recipes" = "生成食谱中...";
+"format.results" = "整理结果中...";
+"completed" = "完成啦！";
+
+/* Enhanced Loading States */
+"recipe.preparing.request" = "准备开始...";
+"recipe.analyzing.ingredients" = "分析食材搭配...";
+"recipe.generating.recipes" = "Bobi 正在厨房...";
+"recipe.ai.thinking" = "Bobi 正在思考...";
+
+/* Mood Selection */
+"mood.selection.title" = "您今天感觉如何？";
+"mood.selection.subtitle" = "您的心情能帮助我们推荐最适合的餐食";
+"mood.selection.cancel" = "取消";
+"mood.selection.confirm" = "确定";
+"mood.not.selected" = "未选择心情";
+"mood.change" = "更改";
+"mood.intensity.title" = "这种感觉有多强烈？";
+
+/* Mood Types */
+"mood.happy" = "开心";
+"mood.excited" = "兴奋";
+"mood.calm" = "平静";
+"mood.tired" = "疲惫";
+"mood.stressed" = "压力大";
+"mood.sad" = "伤心";
+"mood.anxious" = "焦虑";
+"mood.energetic" = "充满活力";
+"mood.romantic" = "浪漫";
+"mood.nostalgic" = "怀旧";
+
+/* Mood Intensities */
+"mood.intensity.low" = "轻微";
+"mood.intensity.normal" = "正常";
+"mood.intensity.high" = "强烈";
+
+/* Mood Descriptions */
+"mood.description.low" = "有点%@";
+"mood.description.high" = "非常%@";
+
+/* Weather Conditions */
+"weather.windy" = "有风";
+"weather.snowy" = "下雪";
+"weather.clear" = "晴朗";
+"weather.thunderstorms" = "雷暴";
+"weather.foggy" = "有雾";
+
+/* Weather Descriptions with Emojis */
+"weather.desc.sunny" = "阳光明媚 ☀️";
+"weather.desc.cloudy" = "多云天气 ☁️";
+"weather.desc.rainy" = "细雨绵绵 🌧️";
+"weather.desc.cold" = "清冷宜人 🧊";
+"weather.desc.hot" = "炎热夏日 🔥";
+"weather.desc.windy" = "微风徐徐 💨";
+"weather.desc.snowy" = "雪花飞舞 ❄️";
+"weather.desc.thunderstorms" = "雷雨交加 ⛈️";
+"weather.desc.foggy" = "雾气朦胧 🌫️";
+"weather.desc.clear" = "天空清澈 🌟";
+
+/* Weather Descriptions with Temperature */
+"weather.temp.sunny" = "今天阳光明媚 ☀️ %@";
+"weather.temp.cloudy" = "今天多云 ☁️ %@";
+"weather.temp.rainy" = "外面在下雨 🌧️ %@";
+"weather.temp.cold" = "今天有点凉 🧊 %@";
+"weather.temp.hot" = "今天很热呢 🔥 %@";
+"weather.temp.windy" = "今天有风 💨 %@";
+"weather.temp.snowy" = "外面在下雪 ❄️ %@";
+"weather.temp.thunderstorms" = "外面雷雨交加 ⛈️ %@";
+"weather.temp.foggy" = "今天雾气很重 🌫️ %@";
+"weather.temp.clear" = "今天天空晴朗 🌟 %@";
+
+/* Food Units - Standardized */
+"unit.gram" = "g";
+"unit.milliliter" = "ml";
+"unit.piece" = "个";
+
+/* Location and Weather */
+"location.permission.denied" = "位置权限被拒绝，使用默认天气数据";
+"location.permission.required" = "需要位置权限获取天气信息";
+"location.current" = "当前位置";
+"location.mock" = "默认位置";
+"location.error" = "无法获取位置";
+"weather.fetch.error" = "无法获取天气数据";
+
+/* WeatherKit Errors */
+"weather.error.network" = "网络连接失败，无法获取天气数据";
+"weather.error.authentication" = "天气服务认证失败";
+"weather.error.location" = "位置信息不可用";
+"weather.error.unknown" = "获取天气信息时发生未知错误";
+"weather.error.general" = "天气服务暂时不可用";
+
+/* Contextual Suggestions */
+"contextual.meal.suggestion" = "为您量身定制的餐食建议";
+
+/* Receipt Scan */
+"receipt.scan.title" = "扫描收据";
+"receipt.scan.instruction" = "扫描购物收据";
+"receipt.scan.description" = "拍照或扫描超市收据，自动添加购买的食材";
+"receipt.scan.tip.focus" = "专注拍摄食材清单部分即可";
+"receipt.scan.tip.straight" = "保持正对收据，光线充足";
+"receipt.scan.tip.clear" = "确保文字清晰可见";
+"receipt.scan.tip.multiple" = "可扫描多张收据一起识别";
+"receipt.scan.tip.angle" = "避免倾斜角度拍摄";
+"receipt.scan.camera" = "拍照扫描";
+"receipt.scan.photo" = "从相册选择";
+"receipt.scan.processing" = "正在识别收据...";
+"receipt.scan.processing.description" = "正在识别食材名称和数量";
+"receipt.scan.date" = "选择购买日期";
+"receipt.scan.items" = "我找到了这些！";
+"receipt.scan.items.count" = "个商品";
+"receipt.scan.confirm" = "都放进去！";
+"receipt.edit.button" = "编辑识别结果";
+"receipt.add.direct" = "直接添加到冰箱";
+"receipt.edit.title" = "编辑收据";
+"receipt.edit.purchase.info" = "购买信息";
+"receipt.edit.purchase.date" = "购买日期";
+"receipt.edit.items.found" = "识别到的食材";
+"receipt.edit.items.count" = "项";
+"receipt.edit.confirm.add" = "确认添加到冰箱";
+"receipt.item.edit.name" = "名称";
+"receipt.item.edit.quantity" = "数量";
+"receipt.item.edit.category" = "分类";
+"receipt.scan.adding" = "正在添加...";
+"receipt.scan.retry" = "重新扫描";
+"receipt.error.invalid_data" = "收据数据无效";
+"receipt.error.no_data" = "没有收据数据";
+"receipt.error.no_food_items" = "没找到食材呢，咱们重新试试？拿近一点，光线亮一点！ 📸";
+"receipt.error.add_failed" = "添加食品失败";
+"receipt.success.items_added" = "成功添加 {count} 个食品项目！";
+"receipt.error.create_item" = "创建食品项目失败";
+"receipt.scan.result" = "处理结果";
+"receipt.error.no_valid_items" = "没有找到有效的食品项目";
+"receipt.error.processing.failed" = "哎呀，Bobi处理得不够好！";
+"receipt.error.ocr.quality" = "照片不够清楚呢！请重新拍摄，确保收据文字清晰可见 📱";
+"receipt.scan.alert.title" = "提示";
+"common.ok" = "确定";
+"recipe.formatting.results" = "整理最终菜谱...";
+"recipe.completed" = "大功告成！";
+"recipe.cancel.request" = "取消";
+
+/* Recipe */
+"recipe.title" = "Bobi 的营养厨房";
+"recipe.subtitle" = "今天想吃什么？Bobi来帮你";
+"recipe.daily.calories" = "家庭能量需求";
+"recipe.available.items" = "冰箱里有";
+"recipe.smart.suggestions" = "Bobi 的灵感";
+"recipe.tonight.dinner" = "今晚吃什么？";
+"recipe.balanced.nutrition" = "营养要均衡";
+"recipe.healthy.meal" = "元气健康餐";
+"recipe.low.fat.high.protein" = "吃不胖秘诀";
+"recipe.quick.cook" = "快手菜";
+"recipe.under.30min" = "30分钟搞定";
+"recipe.use.expiring" = "别浪费粮食";
+"recipe.reduce.waste" = "拯救临期食材";
+"recipe.baby.food" = "宝宝小灶";
+"recipe.soft.nutritious" = "软软的好营养";
+"recipe.summer.treats" = "夏日好心情";
+"recipe.cooling.refreshing" = "冰冰凉凉";
+"recipe.breakfast.energy" = "元气早餐";
+"recipe.start.day.right" = "吃好了一天都开心";
+"recipe.elderly.care" = "长辈关怀";
+"recipe.easy.digest" = "温柔好消化";
+"recipe.weight.loss" = "轻松甩肉";
+
+/* Recipe Parser */
+"recipe.parsing" = "解析菜谱中...";
+"recipe.ingredient.main" = "主料";
+"recipe.ingredient.side" = "配料";
+"recipe.ingredient.seasoning" = "调料";
+"recipe.ingredient.available" = "现有";
+"recipe.ingredient.new" = "新增";
+
+/* Family Dietary Restrictions */
+"family.dietary.vegetarian" = "素食主义";
+"family.dietary.vegan" = "严格素食";
+"family.dietary.glutenFree" = "无麸质";
+"family.dietary.dairyFree" = "无乳制品";
+"family.dietary.nutFree" = "无坚果";
+"family.dietary.lowSodium" = "低钠饮食";
+"family.dietary.diabetic" = "糖尿病饮食";
+"family.dietary.kosher" = "犹太洁食";
+"family.dietary.halal" = "清真饮食";
+
+/* Family Allergies */
+"family.allergy.shellfish" = "贝类过敏";
+"family.allergy.egg" = "鸡蛋过敏";
+"family.allergy.fish" = "鱼类过敏";
+"family.allergy.soy" = "大豆过敏";
+"family.allergy.wheat" = "小麦过敏";
+"family.allergy.sesame" = "芝麻过敏";
+"family.allergy.sulfite" = "亚硫酸盐过敏";
+"family.allergy.mushroom" = "蘑菇过敏";
+
+/* Family Dietary Categories */
+"family.dietary.category.lifestyle" = "生活方式";
+"family.dietary.category.dietary" = "饮食习惯";
+"family.dietary.category.health" = "健康需求";
+"family.dietary.category.religious" = "宗教信仰";
+"family.dietary.category.allergy" = "过敏信息";
+
+/* Custom Allergies */
+"family.custom.allergies.title" = "其他过敏源";
+"family.custom.allergies.description" = "添加不在预设列表中的过敏源";
+"family.custom.allergies.add" = "添加过敏源";
+"family.custom.allergies.add.title" = "添加自定义过敏源";
+"family.custom.allergies.add.description" = "请输入家庭成员的特殊过敏源，帮助 Bobi 为您制定更安全的膳食计划";
+"family.custom.allergies.add.button" = "添加";
+"family.custom.allergies.allergy.name" = "过敏源名称";
+"family.custom.allergies.placeholder" = "输入过敏源名称";
+"family.custom.allergies.example" = "例如：芒果、某些调料等";
+"family.custom.allergies.remove.title" = "删除过敏源";
+"family.custom.allergies.remove.message" = "确定要删除这个过敏源吗？";
+"family.custom.allergies.remove.confirm" = "删除";
+"family.custom.allergies.empty" = "未添加自定义过敏源";
+"recipe.low.calorie" = "好吃不怕胖";
+
+/* Recipe Parser */
+"recipe.ingredient.main" = "主要食材";
+"recipe.ingredient.side" = "配菜食材";
+"recipe.ingredient.seasoning" = "调料";
+"recipe.ingredient.available" = "现有";
+"recipe.ingredient.new" = "新增";
+"recipe.latest.recommendation" = "Bobi 的新发现";
+"recipe.fresh.recommendation" = "刚出炉的灵感";
+"recipe.custom.request" = "告诉Bobi...";
+"recipe.custom.placeholder" = "告诉 Bobi 你的想法，比如 '想吃辣的'...";
+"recipe.use.buttons.above" = "👆 Bobi 有些好点子，点点看？";
+"recipe.buttons.recommendation" = "点上面的按钮，让 Bobi 给点灵感吧！";
+"recipe.chef.thinking" = "正在厨房忙碌中... 🍳";
+"recipe.error.message" = "哎呀，Bobi的厨房信号不太好... 检查下网络，我们重新开始做菜吧！ 📡✨";
+"recipe.recommended.dishes" = "Bobi 的推荐菜";
+"recipe.smart.generation.note" = "会悄悄根据你的家人情况调整菜单哦";
+"recipe.insufficient.ingredients" = "冰箱有点空";
+"recipe.insufficient.suggestion" = "再多放些食材进来，Bobi就能为你变出更多美味花样啦！🛒✨";
+"recipe.setup.family.title" = "认识一下你的家人吧";
+"recipe.setup.family.description" = "告诉 Bobi 家里都有谁，这样我就能更好地为你们准备健康又美味的饭菜啦！";
+"recipe.setup.now" = "这就去";
+"recipe.setup.later" = "待会再说";
+"recipe.kid.friendly" = "宝贝最爱";
+"recipe.nutritious.fun" = "好吃又好玩";
+"recipe.high.energy" = "活力少年";
+"recipe.active.youth" = "能量加满！";
+"recipe.soft.easy" = "软软的好嚼";
+"recipe.gentle.digestible" = "肠胃没负担";
+
+/* Seasonal Recipes */
+"recipe.seasonal.spring" = "春日限定";
+"recipe.seasonal.summer" = "夏日清凉";
+"recipe.seasonal.autumn" = "秋日暖意";
+"recipe.seasonal.winter" = "冬日暖阳";
+"recipe.seasonal.spring.subtitle" = "一口吃掉春天";
+"recipe.seasonal.summer.subtitle" = "凉快一下";
+"recipe.seasonal.autumn.subtitle" = "贴秋膘啦";
+"recipe.seasonal.winter.subtitle" = "暖暖的很贴心";
+
+/* Smart Recommendations */
+"recipe.weight.loss" = "减肥大作战";
+"recipe.low.calorie" = "轻卡美食";
+
+/* Recipe Error Messages */
+"recipe.error.title" = "Bobi 的温馨提醒";
+"recipe.error.suggestion" = "小贴士";
+"recipe.error.health.suggestion" = "试试调整一下需求，比如换个口味或换个菜系，Bobi 会为你重新设计健康美味的菜谱哦！";
+
+/* Recipe Error Codes */
+"recipe.error.HEALTH_CONFLICT" = "健康冲突";
+"recipe.error.UNSAFE_INGREDIENTS" = "食材安全";
+"recipe.error.LOGICAL_IMPOSSIBLE" = "需求矛盾";
+"recipe.error.INSUFFICIENT_SAFE" = "食材不足";
+"recipe.error.SECURITY_VIOLATION" = "访问限制";
+"recipe.error.UNKNOWN" = "未知错误";
+
+/* Units */
+"kcal" = "大卡";
+"dishes" = "道菜";
+
+/* Fridge/Inventory */
+"fridge.title" = "Bobi 的冰箱";
+"fridge.subtitle" = "整整齐齐，一目了然";
+"fridge.search.placeholder" = "找找看有什么好吃的...";
+"fridge.search.title" = "搜一搜";
+"fridge.add.voice" = "动动嘴";
+"fridge.add.scan" = "扫一扫";
+"fridge.add.manual" = "动动手";
+"fridge.no.expiration" = "还没设置保质期";
+"fridge.expired" = "呀，过期了";
+"fridge.expires.today" = "今天就要过期啦";
+"fridge.expires.tomorrow" = "明天就过期咯";
+"fridge.expires.in.days" = "还剩 %d 天";
+"fridge.fresh" = "很新鲜";
+"fridge.active.items" = "有 %d 种宝贝食材";
+"fridge.stats.categories" = "分门别类";
+"fridge.stats.expiring" = "快过期啦";
+"fridge.total" = "总共";
+"fridge.status.ready" = "一切都好！";
+"fridge.status.checking" = "正在检查...";
+"fridge.status.error" = "网络好像开小差了，不过别担心，基本功能都能正常使用！";
+"fridge.view.details" = "看看详情";
+"fridge.delete.group.title" = "要扔掉这一组吗？";
+"fridge.delete.group.message" = "确定要跟'%@'和里面的东西说再见吗？这个决定不能反悔哦。";
+
+/* Add Food Item */
+"add.food.title" = "新成员报到";
+"add.food.basic.info" = "先认识一下";
+"add.food.name.placeholder" = "它叫什么名字？";
+"add.food.category" = "它属于哪个家族？";
+"add.food.quantity.section" = "有多少呢？";
+"add.food.quantity" = "数量";
+"add.food.dates.section" = "什么时候买的？";
+"add.food.purchase.date" = "购买日期";
+"add.food.has.expiration" = "给它设个保质期";
+"add.food.expiration.date" = "保质期到";
+"add.food.cancel" = "再想想";
+"add.food.save" = "放进冰箱";
+
+/* Food Categories */
+"category.dairy" = "奶制品";
+"category.eggs" = "蛋类";
+"category.meat" = "肉类";
+"category.seafood" = "水产";
+"category.vegetables" = "蔬菜";
+"category.fruits" = "水果";
+"category.grains" = "主食谷物";
+"category.beverages" = "饮品";
+"category.condiments" = "调味品";
+"category.frozen" = "冷冻美味";
+"category.canned" = "罐头宝贝";
+"category.snacks" = "小零食";
+"category.other" = "其他";
+
+/* Storage Locations */
+"storage.freezer" = "冷冻室";
+"storage.refrigerator" = "冷藏室";
+"storage.pantry" = "储藏室";
+"storage.freezer.description" = "给肉肉和冰淇淋一个家";
+"storage.refrigerator.description" = "牛奶、鸡蛋和蔬菜水果的公寓";
+"storage.pantry.description" = "米面粮油和罐头的仓库";
+"storage.location" = "它住在哪？";
+"storage.recommended" = "Bobi 建议";
+"storage.recommendation.based.on" = "它应该住在这里";
+"storage.use.recommended" = "就听你的";
+
+/* View Modes */
+"view.by.category" = "按家族";
+"view.by.storage" = "按位置";
+
+/* Units */
+"unit.item" = "个";
+"unit.lbs" = "磅";
+"unit.oz" = "盎司";
+"unit.kg" = "公斤";
+"unit.g" = "克";
+"unit.L" = "升";
+"unit.mL" = "毫升";
+"unit.cups" = "杯";
+"unit.tbsp" = "大勺";
+"unit.tsp" = "小勺";
+"unit.gal" = "加仑";
+
+/* Barcode Scanner */
+"scanner.title" = "扫码入库";
+"scanner.cancel" = "不扫了";
+"scanner.unavailable" = "看不见";
+"scanner.unavailable.description" = "这个设备好像没有摄像头，没法帮你扫码啦。";
+
+/* Settings */
+"settings.title" = "我和 Bobi";
+"settings.group.ai" = "AI 智能助手";
+"settings.subtitle" = "一起调整设置，让我们配合得更默契";
+"settings.notifications" = "Bobi 的提醒";
+"settings.privacy" = "隐私和安全";
+"settings.interface" = "外观";
+"settings.group.interface" = "外观和感觉";
+"settings.group.privacy" = "隐私和提醒";
+"settings.group.support" = "支持和关于";
+"settings.about" = "关于 Bobi";
+"settings.feedback" = "给 Bobi 提建议";
+
+/* Notifications */
+"notifications.expiration.reminder" = "过期提醒";
+"notifications.low.stock" = "补货提醒";
+"notifications.shopping.list" = "采购单提醒";
+"notifications.enable" = "让 Bobi 提醒我";
+"notifications.frequency" = "提醒频率";
+"notifications.frequency.realtime" = "实时";
+"notifications.frequency.hourly" = "每小时";
+"notifications.frequency.twice.daily" = "每天两次";
+"notifications.frequency.daily" = "每天";
+"notifications.frequency.weekly" = "每周";
+"notifications.frequency.realtime.description" = "立即通知";
+"notifications.frequency.hourly.description" = "活跃时间每小时一次";
+"notifications.frequency.twice.daily.description" = "早晚各一次";
+"notifications.frequency.daily.description" = "每天一次";
+"notifications.frequency.weekly.description" = "每周一次";
+"notifications.preferred.time" = "偏好时间";
+"notifications.timing" = "时间安排";
+"notifications.timing.description" = "设置你希望收到提醒的时间";
+
+/* Enhanced Notification Descriptions */
+"notifications.types" = "提醒类型";
+"notifications.expiration.description" = "在食品今天或3天内过期时发出提醒，帮助减少浪费。";
+"notifications.restock.reminder" = "库存不足提醒";
+"notifications.restock.description" = "当您标记需要补货的特定食品库存不足时发出提醒。";
+"notifications.shopping.reminder" = "采购单提醒";
+"notifications.shopping.description" = "当冰箱内食材库存低于采购单设置的阈值时提醒您及时采购。";
+"notifications.schedule" = "提醒时间设置";
+"notifications.frequency.monthly" = "每月";
+"notification.frequency.realtime" = "实时";
+"notification.frequency.hourly" = "每小时";
+"notification.frequency.daily" = "每天";
+"notification.frequency.weekly" = "每周";
+"notification.frequency.monthly" = "每月";
+"notification.description.realtime" = "您将立即收到所有提醒";
+"notification.description.hourly" = "提醒将每小时汇总发送一次";
+"notification.description.daily" = "您将在每天 %@ 收到汇总提醒";
+"notification.description.weekly" = "您将在每周%@的%@收到汇总提醒";
+"notification.description.monthly" = "您将在每月%@的%@收到汇总提醒";
+"notifications.preferred.time.description" = "对于非实时提醒，这将设置您接收提醒的具体时间。";
+"notifications.permission.required" = "提醒功能已关闭";
+"notifications.permission.description" = "开启提醒功能，让 Bobi 及时告诉您食物的状态。";
+"notifications.enable.button" = "开启提醒";
+"notifications.permission.denied" = "权限被拒绝";
+"notifications.permission.denied.message" = "请在设置中开启通知权限以接收提醒。";
+"settings.open" = "打开设置";
+"notifications.preferred.weekday" = "星期几";
+"notifications.preferred.monthday" = "每月几号";
+"notification.monthday.format" = "%d号";
+"notification.monthday.endofmonth" = "%d号（月末）";
+"notifications.monthday.warning" = "注意：对于天数较少的月份，将在该月最后一天发送提醒。";
+
+/* Notification Content */
+"notification.expiration.today.title" = "今天就要过期啦！";
+"notification.expiration.today.body" = "%@ 今天就要过期了，快来处理一下吧！";
+"notification.expiration.tomorrow.title" = "明天就要过期咯！";
+"notification.expiration.tomorrow.body" = "%@ 明天就要过期了，记得提前使用哦！";
+"notification.expiration.soon.title" = "有食物快过期了";
+"notification.expiration.soon.body" = "%@ 还有 %d 天就要过期了，别忘了哦！";
+"notification.restock.title" = "该补货啦！";
+"notification.restock.body" = "%@ 快用完了，记得补充一下！";
+"notification.shopping.title" = "该补货啦！";
+"notification.shopping.single.body" = "%@ 库存不足了，记得补充一下！";
+"notification.shopping.multiple.body" = "%@ 这些食材库存都不足了，该去购物啦！";
+"notification.shopping.many.body" = "%@ 等 %d 种食材库存不足，该去补货了！";
+
+/* Targeted Shopping Notifications */
+"notification.shopping.targeted.title" = "刚用完的食材需要补货";
+"notification.shopping.targeted.single" = "%@ 库存不足了，记得及时补充！";
+"notification.shopping.targeted.multiple" = "%@ 这些刚用的食材库存不足，记得补货哦！";
+"notification.shopping.targeted.multiple.overflow" = "%@ 等 %d 种刚用的食材需要补货！";
+
+/* Privacy & Security */
+"privacy.data.usage" = "数据如何使用";
+"privacy.permissions" = "我的权限";
+"privacy.ai.connection" = "Bobi智能服务";
+"privacy.reset.data" = "清空所有记忆";
+
+/* Permissions */
+"permissions.audio" = "语音权限";
+"permissions.audio.description" = "为了让 Bobi 能听到你说话，需要一些权限哦。";
+"permissions.speech.recognition" = "语音识别";
+"permissions.speech.recognition.description" = "让 Bobi 能听懂你的话";
+"permissions.microphone" = "麦克风";
+"permissions.microphone.description" = "让 Bobi 能听到你的声音";
+"permissions.foundation.model" = "AI 大脑";
+"permissions.foundation.model.description" = "让 Bobi 更聪明地为你分类";
+"permissions.status.granted" = "已获得！";
+"permissions.status.denied" = "已拒绝";
+"permissions.status.restricted" = "受限制";
+"permissions.status.not.requested" = "还没问过你";
+"permissions.status.unknown" = "Bobi 也不清楚";
+"permissions.status.available" = "可以用";
+"permissions.status.unavailable" = "用不了";
+"permissions.status.limited" = "部分功能可用";
+"permissions.status.not.supported" = "不支持";
+"permissions.open.settings" = "去系统设置";
+"permissions.manage" = "去管理";
+"permissions.footer.description" = "如果想修改权限，可以点上面的按钮去系统设置里修改哦。";
+
+/* Data Privacy */
+"data.privacy.title" = "你的隐私，Bobi 很在意";
+"data.privacy.description.1" = "Bobi 的设计，就是为了把你的数据安全地保管好。";
+"data.privacy.description.2" = "你的冰箱里有什么，只有你自己知道，这些信息都安全地存在你的手机上。";
+"data.privacy.description.3" = "绝不会偷看或收集你的数据。";
+"data.feature.local.title" = "数据只属于你";
+"data.feature.local.description" = "所有数据都存在你的设备上，也可以选择用 iCloud 同步";
+"data.feature.private.title" = "绝不窥探";
+"data.feature.private.description" = "Bobi 绝不会收集、追踪或分析你的个人信息";
+"data.feature.secure.title" = "加密守护";
+"data.feature.secure.description" = "你的数据都用 AES-256 加密保护起来了";
+"data.feature.ai.title" = "设备端 AI";
+"data.feature.ai.description" = "语音识别和食物分类都在你的设备上完成，不会上传";
+"data.feature.cloud.ai.title" = "云端 AI 隐私";
+"data.feature.cloud.ai.description" = "当使用云端 AI 为你推荐营养餐时，Bobi 只会分享必要的食材信息，绝不会泄露你的个人隐私。";
+
+/* AI Connection */
+"ai.chef.settings" = "Bobi大厨设置";
+"ai.model.selection.title" = "选择 AI 模型";
+"ai.model.deepseek.description" = "经济实用，擅长中式家常菜搭配";
+"ai.model.gemini.description" = "多元化创意，融合国际美食灵感";
+"ai.model.gpt4mini.description" = "均衡稳定，适合日常营养搭配";
+"ai.model.deepseek.detailed" = "擅长中式传统菜系和家常烹饪，能准确把握中式调味精髓，生成的食谱经济实用、步骤清晰。成本最低，适合日常频繁使用，特别在中式烹饪和传统食材搭配上表现出色。";
+"ai.model.gemini.detailed" = "具备强大的多元化美食理解能力，能融合中西合璧、各国料理精华，创意性强且口味多样。定位高端，适合对食谱创新性和国际化口味有高要求的美食爱好者，能生成精致复杂的融合菜式。";
+"ai.model.gpt4mini.detailed" = "一个快速可靠的菜谱生成器。当您需要快速获取一些经典、常规的菜谱灵感时，它能提供稳定的发挥。请注意，为了生成这些经典菜式，它可能建议您额外采购一些冰箱里没有的食材。";
+"ai.temperature.title" = "菜谱创意度";
+"ai.temperature.label" = "创意温度";
+"ai.temperature.description" = "0.0-0.4：经典传统食谱  0.5-0.8：平衡创新搭配  0.9-1.2：大胆创意融合";
+"ai.connection.status.title" = "Bobi服务状态";
+"ai.connection.status.description" = "Bobi服务状态";
+"ai.connection.status.checking" = "正在连接Bobi服务...";
+"ai.connection.status.ready" = "已连接";
+"ai.connection.status.offline" = "离线";
+"ai.connection.status.error" = "连接失败";
+"ai.connection.status.ready.description" = "Bobi已就绪，可以给你更棒的营养建议";
+"ai.connection.status.checking.description" = "正在呼叫Bobi服务，请稍候...";
+"ai.connection.status.offline.description" = "Bobi服务暂时离线。不过别担心，本地功能都还能用。";
+"ai.connection.status.error.description" = "连接不上Bobi服务。基础功能不受影响。";
+"ai.connection.privacy.title" = "隐私和数据";
+"ai.connection.privacy.description" = "营养推荐会用到你的食材、家庭成员和饮食偏好，但绝不会分享任何能认出你来的信息。";
+"ai.connection.data.usage" = "会分享的数据：你冰箱里的食材名、家庭成员信息和饮食偏好。绝不分享：购买日期、过期日期、具体数量或你的名字。";
+
+/* API Source Selection */
+"ai.api.source.title" = "选择AI服务";
+"ai.source.free.title" = "免费 AI 助手";
+"ai.source.free.description" = "由 Google Gemini 提供支持，完全免费";
+"ai.source.custom.title" = "自定义 API";
+"ai.source.custom.description" = "使用您自己的 API 密钥使用更高级的模型";
+"ai.free.model.title" = "正在使用 Google Gemini 2.0 Flash";
+"ai.free.model.description" = "快速、可靠、完全免费。非常适合日常的食谱推荐和食材管理。";
+
+/* API Provider Selection */
+"ai.api.provider.title" = "选择AI提供商";
+"ai.provider.default.model" = "默认模型";
+"ai.provider.openai.description" = "ChatGPT系列模型，适合通用对话";
+"ai.provider.gemini.description" = "Google最新AI模型，多模态能力强";
+"ai.provider.anthropic.description" = "Claude系列模型，安全可靠";
+"ai.provider.deepseek.description" = "国产AI模型，性价比高";
+
+/* Thinking Mode */
+
+/* API Key Configuration */
+"ai.api.key.config.title" = "API密钥配置";
+"ai.api.key.label" = "API密钥";
+"ai.api.key.placeholder" = "请输入您的API密钥";
+"ai.api.key.info" = "您的API密钥将安全保存在设备本地";
+
+/* AI Service Errors */
+"ai.error.missing.api.key" = "请先配置API密钥";
+"ai.error.invalid.configuration" = "API配置有误";
+"ai.error.invalid.url" = "API地址格式错误";
+"ai.error.invalid.response" = "API响应格式错误";
+"ai.error.api.error" = "API调用失败";
+"ai.error.daily.limit.exceeded" = "今日配额已用完，明天再试试吧！";
+"ai.quota.exceeded.title" = "免费配额用完啦";
+
+/* AI Free Service */
+"ai.free.service.title" = "免费AI助手";
+"usage.remaining" = "今日剩余";
+"usage.available" = "可以使用";
+"usage.reset.time" = "%@后重置";
+
+/* AI Upgrade Tips */
+"ai.upgrade.tip.title" = "想要更好的食谱体验？";
+"ai.upgrade.tip.description" = "使用自定义API可以无限制访问高级AI模型，获得更丰富、更个性化的食谱建议。";
+"ai.upgrade.tip.action" = "在下方切换到自定义API";
+
+/* Receipt Scan AI Usage */
+"receipt.scan.ai.usage.title" = "AI识别需消耗免费次数";
+"receipt.scan.ai.usage.free" = "扫描收据将消耗1次免费AI识别次数";
+"receipt.scan.ai.usage.custom" = "使用自定义API无次数限制";
+"receipt.scan.ai.usage.remaining" = "今日剩余：%d/%d";
+"receipt.scan.no_items_found" = "未找到食材项目";
+"receipt.scan.no_food_items" = "收据中没有找到可以添加到冰箱的食材";
+"receipt.scan.no_food_items.description" = "请检查收据是否清晰，或尝试重新扫描包含更多食材的收据";
+"ai.service.unavailable" = "Bobi的云端厨房现在有点忙，休息一下再来找我做菜吧！期待为你准备美味 🍳💕";
+"ai.service.internal.error" = "服务器休息了一会儿，待会儿再来找Bobi吧，我会准备得更好！";
+"ai.service.rate.limited" = "请求太频繁了，休息一下再试吧！Bobi需要一点时间准备更好的食谱✨";
+
+/* Interface Settings */
+"interface.language" = "语言";
+"interface.theme" = "主题";
+"interface.auto" = "跟随系统";
+"interface.light" = "浅色";
+"interface.dark" = "深色";
+"interface.handedness" = "惯用手";
+"interface.right.handed" = "右手";
+"interface.left.handed" = "左手";
+
+/* About */
+"about.version" = "版本号";
+"about.developer" = "我的创造者";
+"about.website" = "我的主页";
+"about.privacy.policy" = "隐私政策";
+"about.terms.of.use" = "用户协议";
+
+/* Share Bobi */
+"share.bobi.title" = "分享 Bobi";
+"share.bobi.motto" = "智慧管理，温暖生活";
+"share.bobi.description" = "和朋友分享 Bobi，让更多人体验智能厨房管理的乐趣";
+"share.bobi.button" = "分享给朋友";
+"share.bobi.content" = "发现了一个超棒的智能冰箱管理应用 Bobi！智慧管理，温暖生活 🏠✨";
+
+/* Feedback */
+"feedback.rate.app" = "给 Bobi 打个分";
+"feedback.send.feedback" = "给 Bobi 提建议";
+"feedback.share.app" = "把 Bobi 介绍给朋友";
+"feedback.contact.us" = "联系我的创造者";
+
+/* Shopping List */
+"shopping.title" = "Bobi 的采购单";
+"shopping.subtitle" = "智能库存追踪和补货提醒";
+"shopping.search.placeholder" = "找找清单里的食材？";
+"shopping.search.title" = "找找采购单里有什么？";
+"shopping.add.item" = "加到清单";
+"shopping.threshold" = "提醒我";
+"shopping.current.stock" = "冰箱里有";
+"shopping.item.name" = "食材名称";
+"shopping.category" = "分类";
+"shopping.unit" = "单位";
+"shopping.min.quantity" = "还剩多少时提醒";
+"shopping.enable.alerts" = "提醒我补货";
+"shopping.delete.item" = "从清单移除";
+"shopping.edit.item" = "改一改";
+"shopping.delete" = "删除";
+"shopping.edit" = "编辑";
+"shopping.status.low" = "该去超市啦";
+"shopping.status.medium" = "快用完咯";
+"shopping.status.sufficient" = "存货还很足";
+"shopping.stats.shortage" = "缺货提醒";
+"shopping.stats.total" = "清单总数";
+"shopping.section.shortage" = "需要补货";
+"shopping.section.sufficient" = "库存充足";
+"shopping.empty.title" = "采购清单空空如也";
+"shopping.empty.message" = "添加你想追踪的食材，我会在快用完时提醒你";
+
+/* Food Item Details */
+"food.details.title" = "食材小卡片";
+"food.details.name" = "名字";
+"food.details.category" = "家族";
+"food.details.quantity" = "数量";
+"food.details.unit" = "单位";
+"food.details.purchase.date" = "购买日期";
+"food.details.expiration.date" = "保质期至";
+"food.details.stock.alert" = "库存提醒";
+"food.details.save" = "就这样";
+"food.details.cancel" = "再想想";
+"food.details.delete" = "扔掉它";
+"food.details.subitems" = "批次";
+
+"voice.edit.icon" = "换个图标";
+
+/* Voice Input */
+"voice.input.title" = "听你说";
+"voice.recording" = "Bobi 在听... 🎤";
+"voice.listening" = "Bobi 在听呢...";
+"voice.ready.to.listen" = "Bobi 准备好啦";
+"voice.tap.to.record" = "点一下，告诉 Bobi 你买了什么";
+"voice.recognized.text" = "听到的是";
+"voice.parse.items" = "正在整理...";
+"voice.permission.required" = "Bobi 想听你说话";
+"voice.permission.hint" = "请在设置里允许 Bobi 使用麦克风，这样我才能听到你哦 🎤";
+"voice.recording.hint" = "就像聊天一样告诉我就好！比如「我买了2个苹果和500毫升牛奶」😊";
+"voice.processing.hint" = "正在整理你的话... 马上就好！⚡";
+"voice.tap.hint" = "点一下麦克风，告诉 Bobi 新买了什么吧！🗣️";
+
+/* Recording hints (random) */
+"voice.recording.hint.1" = "大声说出来！试试「我有3根香蕉和1升牛奶」🍌🥛";
+"voice.recording.hint.2" = "随便说就好！比如「我买了2个苹果，500克鸡肉，还有一些面包」🍎🍗🍞";
+"voice.recording.hint.3" = "别忘了说数量哦！像「我买了6个鸡蛋，200毫升奶油，还有1袋大米」🥚🍚";
+"voice.recording.hint.4" = "保质期也可以告诉我！比如「我有新鲜的西红柿，明天过期」🍅⏰";
+"voice.recording.hint.5" = "一次说好多样也没问题！试试「我买了胡萝卜，土豆，还有1公斤牛肉」🥕🥔🥩";
+"voice.recording.hint.6" = "单位说得越准越好！比如「我有250毫升酸奶和3块奶酪」🧀";
+
+/* Tap hints (random) */
+"voice.tap.hint.1" = "Bobi 在！告诉我你的冰箱里有什么新宝贝？🎤✨";
+"voice.tap.hint.2" = "我们来填满冰箱吧！点一下麦克风，说说话就好 🗣️🍽️";
+"voice.tap.hint.3" = "见证语言的魔力！点这里开始让 Bobi 帮你整理 🪄🛒";
+"voice.tap.hint.4" = "你的专属冰箱小助手已就位！开始吧 🤖❄️";
+"voice.tap.hint.5" = "你动嘴，我动手！点一下麦克风，Bobi 来帮你记 📝🎯";
+"voice.permission.description" = "请在设置里允许 Bobi 进行语音识别哦";
+"voice.cancel" = "算啦";
+"voice.error.title" = "哎呀，没听清";
+"voice.error.ok" = "好";
+"voice.parse.no.items" = "好像没听到食材的名字";
+"voice.parse.no.valid.food" = "能说得再具体一些吗？比如'苹果'或'牛奶'这样的食材名？我想更好地帮到你 😊";
+"voice.review.title" = "我记下的对不对呀？";
+"voice.review.cancel" = "不对";
+"voice.review.save" = "对，就是这些！";
+"voice.review.edit" = "我改改";
+"voice.review.expires" = "保质期到: %@";
+"voice.edit.title" = "改一下";
+"voice.edit.basic" = "基本信息";
+"voice.edit.name" = "名字";
+"voice.edit.category" = "家族";
+"voice.edit.quantity" = "数量";
+"voice.edit.unit" = "单位";
+"voice.edit.expiration" = "保质期";
+"voice.edit.expiration.date" = "保质期到";
+"voice.edit.cancel" = "算啦";
+"voice.edit.save" = "改好了";
+
+/* Volume Input */
+"voice.volume.input.required" = "可以说一下有多少吗？(比如: 500毫升)";
+
+/* Simulator Support */
+"voice.simulator.warning" = "在这里听不到";
+"voice.simulator.description" = "iOS 模拟器不支持语音输入，没法听到你说话。不过可以试试演示模式哦。";
+"voice.simulator.demo" = "试试演示";
+
+/* Languages */
+"language.english" = "English";
+"language.chinese.simplified" = "简体中文";
+"language.chinese.traditional" = "繁体中文";
+
+/* BMR计算 */
+"bmr.calculation.info" = "用 Harris-Benedict 公式，根据身高、体重、年龄、性别和活动量，悄悄帮你计算每天需要多少能量，给你更科学的饮食建议。";
+"bmr.title" = "能量目标如何计算";
+
+/* 家庭设置好处 */
+"family.setup.benefit.nutrition" = "家人的专属营养建议";
+"family.setup.benefit.portions" = "不多不少的饭菜份量";
+"family.setup.benefit.family" = "全家共享的健康食谱";
+
+/* 家庭管理 */
+"family.management.title" = "我的家";
+"family.management.my.family" = "我的家";
+"family.management.unnamed.family" = "一个温馨的家";
+"family.management.family.name" = "家的名字";
+"family.management.family.members" = "家庭成员";
+"family.management.no.members" = "家里还没有成员哦";
+"family.management.enter.family.name" = "给家起个名字吧";
+"family.management.tap.add.members" = "点这里添加家人";
+"family.management.add.member" = "添加家人";
+"family.management.edit.member" = "编辑家人信息";
+"family.management.done" = "好啦";
+"family.management.save" = "保存";
+"family.management.edit" = "编辑";
+"family.management.cancel" = "算啦";
+"family.management.family.statistics" = "家庭概况";
+"family.management.total.members" = "总人数";
+"family.management.babies" = "小宝宝";
+"family.management.children" = "小朋友";
+"family.management.youth" = "青少年";
+"family.management.adults" = "大朋友";
+"family.management.seniors" = "老朋友";
+"family.management.basic.information" = "基本信息";
+"family.management.dietary.restrictions" = "饮食偏好";
+"family.management.name" = "昵称";
+"family.management.age" = "年龄";
+"family.management.gender" = "性别";
+"family.management.height" = "身高";
+"family.management.weight" = "体重";
+"family.management.activity.level" = "每天的活动量";
+"family.management.male" = "男生";
+"family.management.female" = "女生";
+"family.management.months" = "月";
+"family.management.months.old" = "个月";
+"family.management.years.old" = "岁";
+
+/* 活动水平 */
+"activity.level.sedentary" = "基本不动";
+"activity.level.light" = "偶尔走动";
+"activity.level.moderate" = "经常运动";
+"activity.level.active" = "非常活跃";
+"activity.level.very.active" = "运动达人";
+
+/* 饮食限制 */
+"dietary.restriction.vegetarian" = "素食";
+"dietary.restriction.vegan" = "严格素食";
+"dietary.restriction.gluten.free" = "无麸质";
+"dietary.restriction.dairy.free" = "无乳制品";
+"dietary.restriction.nut.free" = "无坚果";
+"dietary.restriction.low.sodium" = "低盐";
+"dietary.restriction.diabetic" = "糖尿病饮食";
+"dietary.restriction.kosher" = "犹太洁食";
+"dietary.restriction.halal" = "清真";
+"dietary.restriction.count.1" = "1个偏好";
+"dietary.restriction.count.2" = "2个偏好";
+"dietary.restriction.count.3" = "3个偏好";
+"dietary.restriction.count.4" = "4个偏好";
+"dietary.restriction.count.5" = "5个偏好";
+"dietary.restriction.count.6" = "6个偏好";
+"dietary.restriction.count.7" = "7个偏好";
+"dietary.restriction.count.8" = "8个偏好";
+"dietary.restriction.count.9" = "9个偏好";
+"dietary.restriction.count.10" = "10个偏好";
+
+
+/* 年龄分类 */
+"age.category.baby" = "宝宝";
+"age.category.child" = "儿童";
+"age.category.youth" = "青年";
+"age.category.adult" = "成年";
+"age.category.senior" = "长辈";
+
+/* 食谱设置 */
+"recipe.setup.title" = "认识一下你的家人";
+"recipe.setup.description" = "告诉 Bobi 家里都有谁，这样我就能更好地为你们准备健康又美味的饭菜啦！";
+"recipe.setup.now" = "这就去";
+"recipe.setup.later" = "待会再说";
+
+/* 应用设置 */
+"app.icon.change" = "换个新图标";
+"feedback.beta" = "聊聊和测试";
+"gogofridge.and.me" = "Bobi 和我";
+
+/* 家庭所有格 */
+"family.possessive.suffix" = "的家";
+
+/* Food Group Management */
+"food.group.total.items" = "总共 %d 批";
+"food.group.total.quantity" = "总共: %d %@";
+"food.group.total.quantity.formatted" = "总共: %@";
+"food.group.earliest.expiry" = "最早过期: %@";
+"food.group.back" = "返回";
+"food.group.add.similar" = "再加一批";
+"food.group.edit" = "编辑这组";
+"food.group.delete" = "扔掉这组";
+"food.group.delete.alert.title" = "要扔掉这一组吗？";
+"food.group.delete.alert.message" = "「%@」和里面的所有东西都会被扔掉哦，不能反悔的。";
+"food.group.delete.confirm" = "确认扔掉";
+"food.group.cancel" = "手滑了";
+"food.group.purchase.date" = "购买于: %@";
+"food.group.add.to" = "放到 %@ 组里";
+"food.group.basic.info" = "基本信息";
+"food.group.name.placeholder" = "名字 (比如: 红苹果)";
+"food.group.dates" = "日期";
+"food.group.purchase.date.label" = "购买日期";
+"food.group.has.expiration" = "有保质期";
+"food.group.expiration.date.label" = "保质期到";
+"food.group.save" = "保存";
+
+/* Edit Food Group */
+"edit.group.current" = "当前分组: %@";
+"edit.group.core.keyword" = "核心词: %@";
+"edit.group.subitems.count" = "%d 个批次";
+"edit.group.info" = "分组信息";
+"edit.group.name" = "组名";
+"edit.group.keyword.change" = "发现组名变了";
+"edit.group.keyword.not.contains" = "新名字「%@」里好像不包含核心词「%@」了";
+"edit.group.suggested.keyword" = "新的核心词可以是：「%@」";
+"edit.group.keyword.tip" = "💡 名字改了之后，可以自动找到新的核心词，帮你把同类食材放在一起。";
+"edit.group.name.section" = "组名";
+"edit.group.name.footer" = "建议名字简单清楚，比如「红苹果」、「有机苹果」";
+"edit.group.custom.icon" = "自定义图标";
+"edit.group.icon" = "图标";
+"edit.group.use.default.icon" = "用默认图标";
+"edit.group.subitems.preview" = "看看里面的东西";
+"edit.group.more.items" = "还有 %d 个...";
+"edit.group.title" = "编辑分组";
+"edit.group.save.failed" = "哎呀，保存失败了";
+"edit.group.name.empty" = "给它起个名字吧";
+"edit.group.update.keyword" = "要更新核心词吗？";
+"edit.group.update.keyword.message" = "发现「%@」的核心词是「%@」，和之前「%@」不一样了哦。\n\n如果更新，以后就会用「%@」来为你自动分组啦。";
+"edit.group.update.confirm" = "更新";
+"edit.group.ok" = "好";
+"edit.group.cancel" = "算啦";
+"edit.group.save" = "保存";
+
+/* Units */
+"unit.piece" = "个";
+
+/* New Recipe Localization Keys */
+"recipe.seasonal.spring.message" = "Bobi 为你推荐春季限定菜，清淡新鲜，尝尝春天的味道。";
+"recipe.seasonal.summer.message" = "Bobi 为你推荐夏日清凉美食，凉菜、冷汤、冰品，让你在炎炎夏日感受清爽。";
+"recipe.seasonal.autumn.message" = "天气转凉，Bobi 准备了滋补的菜，帮你贴秋膘。";
+"recipe.seasonal.winter.message" = "天冷了，Bobi 用热汤热粥给你温暖。";
+
+"baby.food.stage1.title" = "辅食泥 (6-8个月)";
+"baby.food.stage2.title" = "颗粒辅食 (9-12个月)";
+"baby.food.stage1.subtitle" = "丝滑好吞咽，营养满满";
+"baby.food.stage2.subtitle" = "练习咀嚼，探索新世界";
+"baby.food.stage1.message" = "为刚开始探索美食世界的小宝宝（6-8个月）设计一款丝滑的辅食泥，Bobi 特别注意补充铁元素，并且只用好消化的食材。";
+"baby.food.stage2.message" = "为正在练习咀嚼的小勇士（9-12个月）推荐一款有柔软颗粒的食谱，帮助锻炼口腔，发现更多美味。";
+"baby.food.general.message" = "Bobi 用冰箱里的食材，为宝宝做一顿营养均衡的饭，有蛋白质、有蔬菜、有主食，还会告诉你适合多大的宝宝吃哦。";
+"recipe.soft.texture.message" = "Bobi 推荐质地柔软、好嚼好消化的菜，对所有人都很友好。";
+
+"no.ingredients.title" = "冰箱空空如也";
+"no.ingredients.description" = "快填满冰箱，让 Bobi 为你变出美味魔法吧！";
+
+"cooking.steps.title" = "Bobi 的烹饪指南";
+"cooking.steps.none" = "还没有步骤哦";
+"cooking.guide.title" = "烹饪指南";
+"done" = "我做好了";
+
+"recipe.nutrition.title" = "营养小秘密";
+"recipe.ingredients.title" = "需要这些食材";
+"recipe.tips.title" = "Bobi 的小贴士";
+"recipe.parsing" = "正在解析食谱...";
+
+"confirm.data.reset" = "真的要重置吗？";
+"cancel" = "手滑了";
+"reset" = "确认重置";
+"data.reset.message" = "这个操作会清空我们一起记录的所有回忆，包括：\n• 冰箱里的美味收藏\n• 精心准备的采购清单\n• 家人们的温馨档案\n\n一旦重置就无法恢复了，请慎重考虑哦。";
+"data.reset.complete" = "好啦，我们重新开始吧！";
+"ok" = "好哒";
+"data.cleared.message" = "所有数据都成功清除啦。";
+
+"change.app.icon" = "给 Bobi 换个新图标";
+
+"feedback.description" = "Bobi 一直在学习如何成为更好的伙伴。\n愿意花一点点时间帮帮我吗？";
+"feedback.quick.title" = "快速调研";
+"feedback.quick.description" = "通过快速调研分享你的使用体验，帮助我们改进。";
+"feedback.give.feedback" = "参与调研";
+"research.join.title" = "加入 Bobi 的成长之旅";
+"research.join.description" = "和我一起探索新功能，你的建议会让 Bobi 变得更贴心。";
+"research.benefits.early.access" = "抢先体验新功能";
+"research.benefits.suggestions" = "让你的想法成真";
+"research.benefits.no.pressure" = "随时可以退出，没压力！";
+"research.join.beta" = "和我一起成长";
+"contact.say.hi.title" = "想和开发者聊聊";
+"contact.description" = "想对 Bobi 的创造者说些什么吗？任何想法我们都很想听。";
+"contact.write.email" = "给开发者写信";
+"feedback.beta.title" = "反馈和建议";
+
+"about.description.intro" = "你好，我是 Bobi！我的创造者是一位热爱编程的开发者，同时也是每天和家人一起奋斗在厨房的暖心爸爸。我的诞生源于他的一个小烦恼：总是忘记冰箱里藏着什么宝贝，看到过期食物被扔掉时特别心疼。他希望我能成为大家身边那个贴心可靠的小伙伴，帮你告别冰箱管理的烦恼，让每个家庭都能享受更从容、更健康的饮食生活。";
+"about.description.features" = "我不只是一个简单的记录工具，更想成为你最信赖的饮食管家。我用心帮你打理冰箱、减少食材浪费、制定营养均衡的膳食计划。我的理想是成为厨房里那个默默支持你的暖心伙伴，让你把更多精力放在真正重要的事情上——和最爱的家人围坐桌前，享受美食带来的温馨时光。";
+"about.description.footer" = "谢谢你选择和 Bobi 成为朋友。能与你一起守护家人的健康餐桌，是我最大的荣幸。你的每一次使用，都让我更加坚定地相信：科技的温度，来自于对家的爱。";
+"about.navigation.title" = "关于 Bobi 和我";
+
+"recipe.ai.recommendation" = "Bobi 的灵感";
+"recipe.default.health.tip" = "吃得好，没烦恼";
+
+/* App Icon Display Names */
+"app.icon.display.name.default" = "经典";
+"app.icon.display.name.blue" = "海洋蓝";
+"app.icon.display.name.green" = "森林绿";
+"app.icon.display.name.red" = "热情红";
+"app.icon.display.name.yellow" = "阳光黄";
+"app.icon.display.name.chicken" = "香嫩鸡腿";
+"app.icon.display.name.milk" = "纯净牛奶";
+"app.icon.display.name.banana" = "香甜香蕉";
+"app.icon.display.name.rainbow" = "彩虹缤纷";
+"app.icon.display.name.ice" = "冰块";
+
+/* Age Picker Component */
+"age.picker.mode.years" = "岁";
+"age.picker.mode.months" = "月";
+"age.picker.years.label" = "选择年龄";
+"age.picker.months.label" = "选择月龄";
+"age.picker.year.singular" = "岁";
+"age.picker.year.plural" = "岁";
+"age.picker.month.singular" = "个月";
+"age.picker.month.plural" = "个月";
+"age.picker.selected.label" = "已选";
+"age.picker.no.selection" = "未选择";
+
+/* Food Photo */
+"food.photo" = "照片";
+"photo.placeholder" = "拍张照吧";
+"photo.delete.title" = "要删除照片吗？";
+"photo.delete.message" = "这个操作不能反悔哦。";
+"photo.delete.confirm" = "删除";
+"photo.delete.cancel" = "手滑了";
+"photo.overwrite.title" = "要换一张照片吗？";
+"photo.overwrite.message" = "原来的照片会被删除哦。";
+"photo.overwrite.confirm" = "替换";
+"photo.overwrite.cancel" = "不换了";
+
+/* Camera Permissions */
+"permissions.camera" = "相机";
+"permissions.camera.description" = "给食材拍张照";
+"permissions.location" = "位置";
+"permissions.location.description" = "让Bobi获取当地天气以提供智能食谱推荐。";
+"camera.permission.not.determined" = "未请求";
+"camera.permission.restricted" = "受限制";
+"camera.permission.denied" = "已拒绝";
+"camera.permission.authorized" = "已授权";
+"camera.permission.unknown" = "未知";
+"camera.unavailable.title" = "相机不可用";
+"camera.unavailable.message" = "此设备上相机不可用。您想从相册中选择照片吗？";
+"camera.permission.denied.title" = "需要相机权限";
+"camera.permission.denied.message" = "请在设置中允许相机访问以拍摄照片。";
+"photo.library.select" = "从相册选择";
+/* New Missing Keys for Hardcoded Text Fixes */
+"food.details.stock.alert.help" = "开启后，会根据采购单的设置提醒你补货";
+"food.details.delete.confirm" = "真的要扔掉它吗？";
+"emoji.picker.title" = "选个表情";
+
+/* New localization keys for HomeStatusView */
+"mood.remaining.hours" = "剩余%d小时";
+"recipe.recommendation.prefix" = "已为您推荐";
+"recipe.recommendation.description" = "这是一道AI为您精心推荐的料理，基于您的心情和当前时间为您量身打造。";
+"recipe.view.details" = "查看详细食谱";
+"mood.selection.required" = "请先选择您的心情，我会为您推荐合适的料理";
+"recipe.default.dish.name" = "推荐菜品";
+"user.mood.unknown" = "未知";
+"weather.mood.prompt" = "请基于当前的天气和心情状况，为我推荐一道温馨的家庭菜品。";
+"bobi.random.greetings.1" = "哈喽！我们来做点好吃的吧。🍳";
+"bobi.random.greetings.2" = "点我啦！准备好见证厨房魔法了吗？✨";
+"bobi.random.greetings.3" = "在想什么呢？你的美食之旅，我来帮忙。💭";
+"bobi.random.greetings.4" = "饿了吗？看看你的味蕾想吃什么。🤔";
+"bobi.random.greetings.5" = "让我想想... 为你准备了些美食点子。👨‍🍳";
+"bobi.random.greetings.6" = "来场厨房冒险？新菜谱在等你哦！✨";
+"bobi.random.greetings.7" = "快乐的厨房才有快乐的食物。开动吧！🎉";
+"bobi.random.greetings.8" = "你来啦！我的一天都被点亮了。今天做什么？😊";
+"bobi.random.greetings.9" = "厨房在等它的艺术家！今天要创作什么？🎨";
+"bobi.random.greetings.10" = "今天不就是享受家庭美味的完美一天吗？☀️";
+"bobi.random.greetings.11" = "回来啦！我跟电饭煲刚才还在聊你呢。😉";
+"bobi.random.greetings.12" = "准备好把食材变成快乐了吗？🥕";
+"user.mood.context" = "用户心情：%@";
+"user.mood.context.unknown" = "用户心情：未知";
+
+/* Data Recovery Keys */
+"data.recovery.title" = "遇到麻烦了";
+"data.recovery.description" = "在加载数据时出了点问题，可能是因为应用刚刚更新过。";
+"data.recovery.reset" = "清空数据再试试";
+"data.recovery.restart" = "重启一下";
+"data.recovery.error.details" = "错误信息:";
+"data.recovery.confirm.title" = "确认重置吗？";
+"data.recovery.reset.button" = "确认重置";
+"data.recovery.confirm.message" = "这会清除掉所有数据，包括冰箱里的东西、采购单等等，而且再也找不回来哦。";
+
+/* Emoji Picker Additional Keys */
+"emoji.picker.current.selection" = "当前";
+"emoji.picker.select.prompt" = "选一个表情吧";
+
+/* Shopping Item Additional Keys */
+"shopping.delete.confirm" = "确定要从清单里删除它吗？";
+
+/* Unit Conversion Explanations */
+"unit.conversion.explanation" = "Bobi 将使用国际标准单位保存";
+"unit.conversion.weight.to.g" = "保存为 %@ 克";
+"unit.conversion.volume.to.ml" = "保存为 %@ 毫升";
+"unit.conversion.count" = "保存为 %@ 个";
+"unit.conversion.detail.message" = "为了保证数据的准确性和一致性，Bobi 会将你输入的数量自动转换为国际标准单位进行保存。设置时仍会根据你的偏好和习惯来显示。";
+
+"common.ok" = "好的";
+"no.ingredients.alert.title" = "冰箱空空如也";
+"no.ingredients.alert.message" = "请先添加一些食材到冰箱，然后 Bobi 就可以为你推荐美味的食谱啦！";
+
+// 制作菜谱相关
+"recipe.cook.title" = "制作菜谱";
+"recipe.cook.button" = "开始制作这道菜";
+"recipe.cook.selected" = "已选择制作";
+"recipe.cook.confirm.title" = "确认制作菜谱";
+"recipe.cook.confirm.message" = "制作这道菜将会从冰箱中消耗相应的食材，确定要继续吗？";
+"recipe.cook.confirm.button" = "确认制作";
+"recipe.cook.already.selected.title" = "重复制作确认";
+"recipe.cook.already.selected.message" = "你已经选择制作这道菜了，再次制作会再次扣除食材，确定要继续吗？";
+"recipe.cook.again.button" = "再次制作";
+
+/* History Records */
+"history.type.adjustment" = "数量调整";
+"history.stats.adjustments" = "调整记录";
+"history.today" = "今天";
+"history.yesterday" = "昨天";
+"history.items" = "条记录";
+"history.adjustment.description" = "调整了{item}的数量为{quantity}";
+"quantity.adjustment.from.to" = "数量从{oldQuantity}调整为{newQuantity}";
+"manually.deleted.expired.item" = "手动删除过期食材";
+"expired.on.date" = "于{date}过期";
+"history.loading" = "加载中...";
+
+/* Receipt Scan AI Usage End */
+"fridge.history.title" = "历史记录";
+"fridge.history.subtitle" = "查看详情";
+
+"history.title" = "历史记录";
+"history.overview.title" = "使用统计";
+"history.overview.subtitle" = "食材购买与消耗记录";
+
+"history.time.today" = "今天";
+"history.time.week" = "本周";
+"history.time.month" = "本月";
+
+"history.filter.all" = "全部";
+"history.type.purchase" = "购买";
+"history.type.consumption" = "消耗";
+"history.type.expiration" = "过期";
+"history.type.recipeTrial" = "菜谱尝试";
+"history.type.recipeMade" = "制作菜品";
+
+"history.statistics.title" = "统计概览";
+"history.stats.purchases" = "购买";
+"history.stats.consumption" = "消耗";
+"history.stats.cooking" = "制作次数";
+"history.stats.recipes" = "尝试菜谱";
+"history.stats.expired" = "过期";
+"history.stats.dishes" = "制作菜品";
+
+"history.recent.title" = "最近记录";
+"history.total.count" = "共 {count} 条记录";
+
+"history.empty.title" = "暂无记录";
+"history.empty.message" = "开始使用Bobi记录你的美食生活吧！";
+
+"history.purchase.description" = "购买了 {quantity} {item}";
+"history.consumption.description" = "使用了 {quantity} {item}";
+"history.consumption.recipe" = "制作 {recipe}";
+"history.recipeTrial.recipe" = "尝试了 {recipe}";
+"history.expiration.description" = "丢弃了过期的 {quantity} {item}";
+
+"history.cleanup.auto.info" = "系统会自动清理30天前的记录";
+"history.cleanup.all" = "清空所有记录";
+"history.cleanup.confirm.title" = "确认清理";
+"history.cleanup.confirm.message" = "此操作将永久删除所有历史记录，无法恢复。确定要继续吗？";
+"history.cleanup.confirm.button" = "确认清理";
+
+/* Translation Settings */
+"settings.join.translation" = "加入翻译";
+
+/* Join Translation View */
+"translation.navigation.title" = "加入翻译";
+"translation.join.title" = "帮助翻译Bobi";
+"translation.join.subtitle" = "让世界各地的人都能使用Bobi";
+
+"translation.why.join.title" = "为什么加入我们的翻译社区？";
+"translation.benefit.community" = "与全球美食爱好者建立联系";
+"translation.benefit.early.access" = "抢先体验新功能和更新";
+"translation.benefit.recognition" = "被认可为优秀贡献者";
+"translation.benefit.rewards" = "获得特别奖励和惊喜";
+
+"translation.contributors.title" = "我们的优秀贡献者";
+"translation.ready.to.help" = "准备好帮助Bobi走向全球了吗？🌍";
+"translation.join.button" = "加入翻译团队";
+"translation.form.description" = "填写简短表单表达您的翻译贡献意愿";
+
+/* Recipe Ingredients */
+"recipe.ingredients.add_to_cart" = "添加食材到采购单";
+"recipe.ingredients.description" = "将推荐食谱的食材添加到您的采购单：";
+"recipe.ingredients.add_all" = "全部添加到采购单";
+"recipe.ingredients.waiting" = "等待食谱推荐中...";
+"recipe.ingredients.add_confirmation_title" = "添加食材到采购单";
+"recipe.ingredients.add_confirmation_message" = "您要将以下食材添加到采购单吗？";
+"recipe.ingredients.added" = "已添加到采购单";
+
+/* Recipe Detail */
+"recipe.detail.reason.title" = "为什么推荐这道菜？";
+"recipe.detail.ingredients.title" = "所需食材";
+"recipe.detail.nutrition.title" = "营养信息";
+"recipe.detail.nutrition.highlights" = "营养亮点";
+"recipe.detail.nutrition.details" = "营养成分详情";
+"recipe.detail.steps.title" = "制作步骤";
+
+/* 营养成分名称 */
+"nutrition" = "营养";
+"nutrition.protein" = "蛋白质";
+"nutrition.fat" = "脂肪";
+"nutrition.carbs" = "碳水化合物";
+"nutrition.fiber" = "纤维";
+"nutrition.calories" = "热量";
+"nutrition.other" = "其他";
+
+/* 营养亮点 */
+"nutrition.highlight.high_protein" = "高蛋白";
+"nutrition.highlight.carbs" = "碳水化合物";
+"nutrition.highlight.healthy_fat" = "健康脂肪";
+"nutrition.highlight.high_fiber" = "高纤维";
+"nutrition.highlight.low_calorie" = "低热量";
+"nutrition.highlight.high_energy" = "高能量";
+"nutrition.highlight.balanced" = "营养均衡";
+"nutrition.highlight.homestyle" = "家常美味";
+"nutrition.highlight.simple" = "简单易做";
+"nutrition.highlight.vitamin_c" = "维生素C";
+"nutrition.highlight.low_fat" = "低脂肪";
+
+/* Weather Error Messages */
+"weather.error.timeout" = "天气服务超时";
+"weather.error.invalid_state" = "天气服务状态异常";
+
+/* 多收据支持 */
+"receipt.scan.all_failed" = "处理全部 {count} 张收据失败，请在光线充足的环境下重试。";
+"receipt.scan.no_items_found_multiple" = "已成功处理 {processed}/{total} 张收据，但未找到食材商品。";
+"receipt.scan.partial_success" = "已成功处理 {success}/{total} 张收据，找到 {items} 个食材商品。";
+"receipt.scan.multiple_success" = "太棒了！已成功处理全部 {count} 张收据，找到 {items} 个食材商品。";
+"receipt.scan.traditional_method_used" = "注意：{count} 张收据因 AI 限制使用了传统解析方法。";
+"receipt.scan.mixed_methods" = "AI 处理了 {ai} 张收据，传统方法处理了 {traditional} 张收据。";
+"receipt.scan.single_traditional" = "因 AI 限制，收据使用传统解析方法处理。";
