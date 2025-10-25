@@ -13,7 +13,7 @@
 
 ## 🎨 About This Project
 
-**Bobi** is a **vibe coding** project - built with passion, creativity, and the spirit of rapid iteration. This app embodies the philosophy of:
+**Bobi** is a project built with passion, creativity, and the spirit of rapid iteration. This app embodies the philosophy of:
 - **Fast prototyping** with AI-assisted development
 - **User-centric design** driven by real-world pain points
 - **Iterative refinement** based on practical usage
