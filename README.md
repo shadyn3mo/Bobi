@@ -38,12 +38,6 @@
 | <img src="pic/shopping.jpg" width="250"/> | <img src="pic/ideas.jpg" width="250"/> | <img src="pic/recommendation.jpg" width="250"/> |
 | Manage staples. Thresholds link to inventory;<br>alerts when stock is low. | Recommendations for scenarios (e.g., quick meals)<br>and family needs (allergies, diets). | Generated recipe details.<br>Ingredients removed from inventory upon cooking. |
 
-### ⚙️ Settings
-| Settings | | |
-|:---:|:---:|:---:|
-| <img src="pic/setting.jpg" width="250"/> | | |
-| Personalization and preferences management | | |
-
 ---
 
 ## ✨ Core Features

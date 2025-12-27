@@ -38,12 +38,6 @@
 | <img src="pic/shopping.jpg" width="250"/> | <img src="pic/ideas.jpg" width="250"/> | <img src="pic/recommendation.jpg" width="250"/> |
 | 保存常备食材。阈值与库存联动，<br>低于阈值自动提示。 | 针对不同场景（如减脂、快手餐）<br>及家庭情况（过敏、忌口）推荐。 | 生成的菜品详情。<br>选择制作后自动扣除库存食材。 |
 
-### ⚙️ 设置
-| 设置页面 | | |
-|:---:|:---:|:---:|
-| <img src="pic/setting.jpg" width="250"/> | | |
-| 个性化偏好设置与管理 | | |
-
 ---
 
 ## ✨ 核心特色
