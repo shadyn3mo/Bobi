@@ -11,7 +11,7 @@
 
 ## 🎨 About Bobi
 
-**Bobi** is an open-source project exploring the potential of AI in daily life. Built with a "vibe coding" philosophy, it combines rapid prototyping with user-centric design to solve the "what to eat" dilemma. We focus on:
+**Bobi** is an open-source project exploring the potential of AI in daily life. Built with AI agents, it combines rapid prototyping with user-centric design to solve the "what to eat" dilemma. We focus on:
 - **Fast prototyping** with AI-assisted development
 - **User-centric design** driven by real pain points
 - **Privacy-first** design with 100% local data storage (no cloud servers)
